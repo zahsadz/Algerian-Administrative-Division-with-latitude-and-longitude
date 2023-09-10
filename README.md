@@ -65,7 +65,7 @@ Administrative division of Algeria with latitude and longitude (Wilayas - Daïra
 
 * [zahsadz: Liste des Wilayas - Daïras - baladiyahs d'Algérie](https://github.com/zahsadz)
 
-zahrane sa / [@zah4dz](https://fb.me/zah4dz)
+zahrane sa facebook / [@zah4dz](https://fb.me/zah4dz)
 
 السكريبت المستعمل في مراقبة وتعديل الإحداثيات
 ============================================================
