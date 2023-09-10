@@ -1,0 +1,3345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dairas>
+  <daira id="1" id_state="1">
+    <arabic>أدرار</arabic>
+    <french>Adrar</french>
+    <latitude>27.93249750</latitude>
+    <longitude>-1.42301100</longitude>
+  </daira>
+  <daira id="2" id_state="49">
+    <arabic>شروين</arabic>
+    <french>Charouine</french>
+    <latitude>29.40409750</latitude>
+    <longitude>-0.26780030</longitude>
+  </daira>
+  <daira id="3" id_state="1">
+    <arabic>رقان</arabic>
+    <french>Reggane</french>
+    <latitude>25.53163700</latitude>
+    <longitude>-2.09917250</longitude>
+  </daira>
+  <daira id="4" id_state="1">
+    <arabic>تسابيت</arabic>
+    <french>Tsabit</french>
+    <latitude>28.49880500</latitude>
+    <longitude>-1.12667230</longitude>
+  </daira>
+  <daira id="5" id_state="49">
+    <arabic>تيميمون</arabic>
+    <french>Timimoun  </french>
+    <latitude>29.69118850</latitude>
+    <longitude>1.55544570</longitude>
+  </daira>
+  <daira id="6" id_state="1">
+    <arabic>زاوية كنتة</arabic>
+    <french>Zaouiat Kounta</french>
+    <latitude>27.16987600</latitude>
+    <longitude>-1.29544150</longitude>
+  </daira>
+  <daira id="7" id_state="1">
+    <arabic>أولف</arabic>
+    <french>Aoulef</french>
+    <latitude>27.41627880</latitude>
+    <longitude>1.10902150</longitude>
+  </daira>
+  <daira id="8" id_state="1">
+    <arabic>فنوغيل</arabic>
+    <french>Fenoughil</french>
+    <latitude>27.89413800</latitude>
+    <longitude>0.37282270</longitude>
+  </daira>
+  <daira id="9" id_state="49">
+    <arabic>تنركوك</arabic>
+    <french>Tinerkouk</french>
+    <latitude>30.46193900</latitude>
+    <longitude>1.07838460</longitude>
+  </daira>
+  <daira id="10" id_state="49">
+    <arabic>أوقروت</arabic>
+    <french>Aougrout</french>
+    <latitude>28.91678600</latitude>
+    <longitude>0.93441060</longitude>
+  </daira>
+  <daira id="11" id_state="50">
+    <arabic>برج باجي مختار</arabic>
+    <french>Bordj Badji Mokhtar</french>
+    <latitude>22.62614610</latitude>
+    <longitude>0.12758170</longitude>
+  </daira>
+  <daira id="12" id_state="49">
+    <arabic>تيميمون (ولاية منتدبة)</arabic>
+    <french>Timimoun (Wilaya Déléguée) </french>
+    <latitude>29.69118850</latitude>
+    <longitude>1.55544570</longitude>
+  </daira>
+  <daira id="13" id_state="50">
+    <arabic>برج باجي مختار (ولاية منتدبة)</arabic>
+    <french>Bordj Badji Mokhtar (Wilaya Déléguée) </french>
+    <latitude>22.62614610</latitude>
+    <longitude>0.12758170</longitude>
+  </daira>
+  <daira id="14" id_state="2">
+    <arabic>الشلف</arabic>
+    <french>Chlef</french>
+    <latitude>36.09584500</latitude>
+    <longitude>1.37228500</longitude>
+  </daira>
+  <daira id="15" id_state="2">
+    <arabic>تنس</arabic>
+    <french>Tenes</french>
+    <latitude>36.46769230</latitude>
+    <longitude>1.28988960</longitude>
+  </daira>
+  <daira id="16" id_state="2">
+    <arabic>الكريمية</arabic>
+    <french>El Karimia</french>
+    <latitude>36.04331960</latitude>
+    <longitude>1.59210560</longitude>
+  </daira>
+  <daira id="17" id_state="2">
+    <arabic>تاوقريت</arabic>
+    <french>Taougrit</french>
+    <latitude>36.27967440</latitude>
+    <longitude>0.86559820</longitude>
+  </daira>
+  <daira id="18" id_state="2">
+    <arabic>بني حواء</arabic>
+    <french>Beni Haoua</french>
+    <latitude>36.47611140</latitude>
+    <longitude>1.53544870</longitude>
+  </daira>
+  <daira id="19" id_state="2">
+    <arabic>أولاد فارس</arabic>
+    <french>Ouled Fares</french>
+    <latitude>36.22893040</latitude>
+    <longitude>1.20965610</longitude>
+  </daira>
+  <daira id="20" id_state="2">
+    <arabic>بوقادير</arabic>
+    <french>Boukadir</french>
+    <latitude>36.06325200</latitude>
+    <longitude>1.09729900</longitude>
+  </daira>
+  <daira id="21" id_state="2">
+    <arabic>الزبوجة</arabic>
+    <french>Zeboudja</french>
+    <latitude>36.38549090</latitude>
+    <longitude>1.43486740</longitude>
+  </daira>
+  <daira id="22" id_state="2">
+    <arabic>أبو الحسن</arabic>
+    <french>Abou El Hassane</french>
+    <latitude>36.36205800</latitude>
+    <longitude>1.12151690</longitude>
+  </daira>
+  <daira id="23" id_state="2">
+    <arabic>المرسى</arabic>
+    <french>El Marsa</french>
+    <latitude>36.38379490</latitude>
+    <longitude>0.96883400</longitude>
+  </daira>
+  <daira id="24" id_state="2">
+    <arabic>وادي الفضة</arabic>
+    <french>Oued Fodda</french>
+    <latitude>36.25657320</latitude>
+    <longitude>1.52195760</longitude>
+  </daira>
+  <daira id="25" id_state="2">
+    <arabic>أولاد بن عبد القادر</arabic>
+    <french>Ouled Ben Abdelkader</french>
+    <latitude>35.96811950</latitude>
+    <longitude>1.39105900</longitude>
+  </daira>
+  <daira id="26" id_state="2">
+    <arabic>عين مران</arabic>
+    <french>Ain Merane</french>
+    <latitude>36.21626950</latitude>
+    <longitude>1.02889940</longitude>
+  </daira>
+  <daira id="27" id_state="3">
+    <arabic>الأغواط</arabic>
+    <french>Laghouat</french>
+    <latitude>33.84257980</latitude>
+    <longitude>2.84237270</longitude>
+  </daira>
+  <daira id="28" id_state="3">
+    <arabic>قصر الحيران</arabic>
+    <french>Ksar El Hirane</french>
+    <latitude>33.52915370</latitude>
+    <longitude>3.04214250</longitude>
+  </daira>
+  <daira id="29" id_state="3">
+    <arabic>سيدي مخلوف</arabic>
+    <french>Sidi Makhlouf</french>
+    <latitude>34.04657100</latitude>
+    <longitude>2.87498040</longitude>
+  </daira>
+  <daira id="30" id_state="3">
+    <arabic>حاسي الرمل</arabic>
+    <french>Hassi R'mel</french>
+    <latitude>33.30777600</latitude>
+    <longitude>3.81686120</longitude>
+  </daira>
+  <daira id="31" id_state="3">
+    <arabic>عين ماضي</arabic>
+    <french>Ain Madhi</french>
+    <latitude>33.71718910</latitude>
+    <longitude>2.53185150</longitude>
+  </daira>
+  <daira id="32" id_state="3">
+    <arabic>قتلة سيدي سعيد</arabic>
+    <french>Gueltat Sidi Saad</french>
+    <latitude>34.37018440</latitude>
+    <longitude>1.90958070</longitude>
+  </daira>
+  <daira id="33" id_state="3">
+    <arabic>بريدة</arabic>
+    <french>Brida</french>
+    <latitude>33.95675100</latitude>
+    <longitude>1.63519820</longitude>
+  </daira>
+  <daira id="34" id_state="3">
+    <arabic>الغيشة</arabic>
+    <french>El Ghicha</french>
+    <latitude>33.87508880</latitude>
+    <longitude>2.13952640</longitude>
+  </daira>
+  <daira id="35" id_state="3">
+    <arabic>أفلو</arabic>
+    <french>Aflou</french>
+    <latitude>34.15261880</latitude>
+    <longitude>2.04966330</longitude>
+  </daira>
+  <daira id="36" id_state="3">
+    <arabic>وادي مرة</arabic>
+    <french>Oued Morra</french>
+    <latitude>34.11715610</latitude>
+    <longitude>2.31821100</longitude>
+  </daira>
+  <daira id="37" id_state="4">
+    <arabic>أم البواقي</arabic>
+    <french>Oum El Bouaghi</french>
+    <latitude>35.75257030</latitude>
+    <longitude>7.07484590</longitude>
+  </daira>
+  <daira id="38" id_state="4">
+    <arabic>عين البيضاء</arabic>
+    <french>Ain Beida</french>
+    <latitude>35.88059100</latitude>
+    <longitude>7.38245190</longitude>
+  </daira>
+  <daira id="39" id_state="4">
+    <arabic>عين مليلة</arabic>
+    <french>Ain M'lila</french>
+    <latitude>36.04848050</latitude>
+    <longitude>6.57004530</longitude>
+  </daira>
+  <daira id="40" id_state="4">
+    <arabic>سيقوس</arabic>
+    <french>Sigus</french>
+    <latitude>36.09670000</latitude>
+    <longitude>6.83616960</longitude>
+  </daira>
+  <daira id="41" id_state="4">
+    <arabic>عين ببوش</arabic>
+    <french>Ain Babouche</french>
+    <latitude>35.99699540</latitude>
+    <longitude>7.10055670</longitude>
+  </daira>
+  <daira id="42" id_state="4">
+    <arabic>الضلعة</arabic>
+    <french>Dhalaa</french>
+    <latitude>35.58718900</latitude>
+    <longitude>7.55253260</longitude>
+  </daira>
+  <daira id="43" id_state="4">
+    <arabic>عين كرشة</arabic>
+    <french>Ain Kercha</french>
+    <latitude>35.89597420</latitude>
+    <longitude>6.66725850</longitude>
+  </daira>
+  <daira id="44" id_state="4">
+    <arabic>فكيرينة</arabic>
+    <french>F'kirina</french>
+    <latitude>35.65293750</latitude>
+    <longitude>7.35254140</longitude>
+  </daira>
+  <daira id="45" id_state="4">
+    <arabic>سوق نعمان</arabic>
+    <french>Souk Naamane</french>
+    <latitude>35.89507800</latitude>
+    <longitude>6.34827340</longitude>
+  </daira>
+  <daira id="46" id_state="4">
+    <arabic>قصر الصباحي</arabic>
+    <french>Ksar Sbahi</french>
+    <latitude>36.06146550</latitude>
+    <longitude>7.25303150</longitude>
+  </daira>
+  <daira id="47" id_state="4">
+    <arabic>مسكيانة</arabic>
+    <french>Meskiana</french>
+    <latitude>35.69725550</latitude>
+    <longitude>7.69666120</longitude>
+  </daira>
+  <daira id="48" id_state="4">
+    <arabic>عين فكرون</arabic>
+    <french>Ain Fekroun</french>
+    <latitude>35.86086270</latitude>
+    <longitude>6.87001980</longitude>
+  </daira>
+  <daira id="49" id_state="5">
+    <arabic>باتنة</arabic>
+    <french>Batna</french>
+    <latitude>35.54923460</latitude>
+    <longitude>6.11603820</longitude>
+  </daira>
+  <daira id="50" id_state="5">
+    <arabic>مروانة</arabic>
+    <french>Merouana</french>
+    <latitude>35.61392660</latitude>
+    <longitude>5.99126960</longitude>
+  </daira>
+  <daira id="51" id_state="5">
+    <arabic>سريانة</arabic>
+    <french>Seriana</french>
+    <latitude>35.76127010</latitude>
+    <longitude>6.17865130</longitude>
+  </daira>
+  <daira id="52" id_state="5">
+    <arabic>منعة</arabic>
+    <french>Menaa</french>
+    <latitude>35.09269410</latitude>
+    <longitude>6.01375300</longitude>
+  </daira>
+  <daira id="53" id_state="5">
+    <arabic>المعذر</arabic>
+    <french>El Madher</french>
+    <latitude>35.73268040</latitude>
+    <longitude>6.42866480</longitude>
+  </daira>
+  <daira id="54" id_state="5">
+    <arabic>تازولت</arabic>
+    <french>Tazoult</french>
+    <latitude>35.49996070</latitude>
+    <longitude>6.30659910</longitude>
+  </daira>
+  <daira id="55" id_state="5">
+    <arabic>نقاوس</arabic>
+    <french>N'gaous</french>
+    <latitude>35.48939630</latitude>
+    <longitude>5.56866920</longitude>
+  </daira>
+  <daira id="56" id_state="5">
+    <arabic>أريس</arabic>
+    <french>Arris</french>
+    <latitude>35.26428670</latitude>
+    <longitude>6.33002310</longitude>
+  </daira>
+  <daira id="57" id_state="5">
+    <arabic>عين جاسر</arabic>
+    <french>Ain Djasser</french>
+    <latitude>35.81538400</latitude>
+    <longitude>5.96710490</longitude>
+  </daira>
+  <daira id="58" id_state="5">
+    <arabic>سقانة</arabic>
+    <french>Seggana</french>
+    <latitude>35.31337170</latitude>
+    <longitude>5.62948810</longitude>
+  </daira>
+  <daira id="59" id_state="5">
+    <arabic>إشمول</arabic>
+    <french>Ichemoul</french>
+    <latitude>35.33599790</latitude>
+    <longitude>6.51017980</longitude>
+  </daira>
+  <daira id="60" id_state="5">
+    <arabic>بوزينة</arabic>
+    <french>Bouzina</french>
+    <latitude>35.29624020</latitude>
+    <longitude>6.12551540</longitude>
+  </daira>
+  <daira id="61" id_state="5">
+    <arabic>الشمرة</arabic>
+    <french>Chemora</french>
+    <latitude>35.67896670</latitude>
+    <longitude>6.66795250</longitude>
+  </daira>
+  <daira id="62" id_state="5">
+    <arabic>بريكة</arabic>
+    <french>Barika</french>
+    <latitude>35.23766700</latitude>
+    <longitude>5.26601700</longitude>
+  </daira>
+  <daira id="63" id_state="5">
+    <arabic>الجزار</arabic>
+    <french>Djezzar</french>
+    <latitude>35.37067180</latitude>
+    <longitude>5.03098710</longitude>
+  </daira>
+  <daira id="64" id_state="5">
+    <arabic>تكوت</arabic>
+    <french>Tkout</french>
+    <latitude>35.00063850</latitude>
+    <longitude>6.49010400</longitude>
+  </daira>
+  <daira id="65" id_state="5">
+    <arabic>عين التوتة</arabic>
+    <french>Ain Touta</french>
+    <latitude>35.37730220</latitude>
+    <longitude>5.97903950</longitude>
+  </daira>
+  <daira id="66" id_state="5">
+    <arabic>ثنية العابد</arabic>
+    <french>Theniet El Abed</french>
+    <latitude>35.33340480</latitude>
+    <longitude>6.31736400</longitude>
+  </daira>
+  <daira id="67" id_state="5">
+    <arabic>تيمقاد</arabic>
+    <french>Timgad</french>
+    <latitude>35.54210690</latitude>
+    <longitude>6.60491220</longitude>
+  </daira>
+  <daira id="68" id_state="5">
+    <arabic>رأس العيون</arabic>
+    <french>Ras El Aioun</french>
+    <latitude>35.69521310</latitude>
+    <longitude>5.62569220</longitude>
+  </daira>
+  <daira id="69" id_state="5">
+    <arabic>أولاد سي سليمان</arabic>
+    <french>Ouled Si Slimane</french>
+    <latitude>35.56929660</latitude>
+    <longitude>5.76146180</longitude>
+  </daira>
+  <daira id="70" id_state="6">
+    <arabic>بجاية</arabic>
+    <french>Bejaia</french>
+    <latitude>36.75686040</latitude>
+    <longitude>5.02165720</longitude>
+  </daira>
+  <daira id="71" id_state="6">
+    <arabic>أميزور</arabic>
+    <french>Amizour</french>
+    <latitude>36.61430690</latitude>
+    <longitude>4.86261780</longitude>
+  </daira>
+  <daira id="72" id_state="6">
+    <arabic>تيمزريت</arabic>
+    <french>Timezrit</french>
+    <latitude>36.61557360</latitude>
+    <longitude>4.76832450</longitude>
+  </daira>
+  <daira id="73" id_state="6">
+    <arabic>سوق الإثنين</arabic>
+    <french>Souk El Tenine</french>
+    <latitude>36.59865380</latitude>
+    <longitude>5.40704310</longitude>
+  </daira>
+  <daira id="74" id_state="6">
+    <arabic>تيشي</arabic>
+    <french>Tichy</french>
+    <latitude>36.64764060</latitude>
+    <longitude>5.10654960</longitude>
+  </daira>
+  <daira id="75" id_state="6">
+    <arabic>إغيل علي</arabic>
+    <french>Ighil Ali</french>
+    <latitude>36.32380110</latitude>
+    <longitude>4.53135590</longitude>
+  </daira>
+  <daira id="76" id_state="6">
+    <arabic>درقينة</arabic>
+    <french>Darguina</french>
+    <latitude>36.55127400</latitude>
+    <longitude>5.31583500</longitude>
+  </daira>
+  <daira id="77" id_state="6">
+    <arabic>أوقاس</arabic>
+    <french>Aokas</french>
+    <latitude>36.59618020</latitude>
+    <longitude>5.22785780</longitude>
+  </daira>
+  <daira id="78" id_state="6">
+    <arabic>أدكار</arabic>
+    <french>Adekar</french>
+    <latitude>36.78563160</latitude>
+    <longitude>4.70832080</longitude>
+  </daira>
+  <daira id="79" id_state="6">
+    <arabic>أقبو</arabic>
+    <french>Akbou</french>
+    <latitude>36.47276060</latitude>
+    <longitude>4.49875830</longitude>
+  </daira>
+  <daira id="80" id_state="6">
+    <arabic>صدوق</arabic>
+    <french>Seddouk</french>
+    <latitude>36.49768260</latitude>
+    <longitude>4.65852420</longitude>
+  </daira>
+  <daira id="81" id_state="6">
+    <arabic>تازملت</arabic>
+    <french>Tazmalt</french>
+    <latitude>36.36715720</latitude>
+    <longitude>4.43254660</longitude>
+  </daira>
+  <daira id="82" id_state="6">
+    <arabic>شميني</arabic>
+    <french>Chemini</french>
+    <latitude>36.62545370</latitude>
+    <longitude>4.60393910</longitude>
+  </daira>
+  <daira id="83" id_state="6">
+    <arabic>برباشة</arabic>
+    <french>Barbacha</french>
+    <latitude>36.56388480</latitude>
+    <longitude>4.99096840</longitude>
+  </daira>
+  <daira id="84" id_state="6">
+    <arabic>إفري أوزلاقن</arabic>
+    <french>Ifri Ouzellaguene</french>
+    <latitude>36.55033570</latitude>
+    <longitude>4.55274210</longitude>
+  </daira>
+  <daira id="85" id_state="6">
+    <arabic>سيدي عيش</arabic>
+    <french>Sidi Aich</french>
+    <latitude>36.63569200</latitude>
+    <longitude>4.69812020</longitude>
+  </daira>
+  <daira id="86" id_state="6">
+    <arabic>القصر</arabic>
+    <french>El Kseur</french>
+    <latitude>36.75604700</latitude>
+    <longitude>4.86045190</longitude>
+  </daira>
+  <daira id="87" id_state="6">
+    <arabic>خراطة</arabic>
+    <french>Kherrata</french>
+    <latitude>36.44549000</latitude>
+    <longitude>5.25437990</longitude>
+  </daira>
+  <daira id="88" id_state="6">
+    <arabic>بني معوش</arabic>
+    <french>Beni Maouche</french>
+    <latitude>36.48785120</latitude>
+    <longitude>4.78755200</longitude>
+  </daira>
+  <daira id="89" id_state="7">
+    <arabic>بسكرة</arabic>
+    <french>Biskra</french>
+    <latitude>34.80960200</latitude>
+    <longitude>5.68651440</longitude>
+  </daira>
+  <daira id="90" id_state="52">
+    <arabic>أولاد جلال</arabic>
+    <french>Ouled Djellal</french>
+    <latitude>34.59174210</latitude>
+    <longitude>4.94451810</longitude>
+  </daira>
+  <daira id="91" id_state="52">
+    <arabic>سيدي  خالد</arabic>
+    <french>Sidi Khaled</french>
+    <latitude>34.01515400</latitude>
+    <longitude>4.82333460</longitude>
+  </daira>
+  <daira id="92" id_state="7">
+    <arabic>سيدي عقبة</arabic>
+    <french>Sidi Okba</french>
+    <latitude>34.65981340</latitude>
+    <longitude>6.09223430</longitude>
+  </daira>
+  <daira id="93" id_state="7">
+    <arabic>مشونش</arabic>
+    <french>Mechouneche</french>
+    <latitude>34.90698490</latitude>
+    <longitude>6.00338890</longitude>
+  </daira>
+  <daira id="94" id_state="7">
+    <arabic>زريبة الوادي</arabic>
+    <french>Zeribet El Oued</french>
+    <latitude>34.68217410</latitude>
+    <longitude>6.54796740</longitude>
+  </daira>
+  <daira id="95" id_state="7">
+    <arabic>القنطرة</arabic>
+    <french>El Kantara</french>
+    <latitude>35.18721400</latitude>
+    <longitude>5.71241970</longitude>
+  </daira>
+  <daira id="96" id_state="7">
+    <arabic>الوطاية</arabic>
+    <french>El Outaya</french>
+    <latitude>34.98037020</latitude>
+    <longitude>5.55393110</longitude>
+  </daira>
+  <daira id="97" id_state="7">
+    <arabic>جمورة</arabic>
+    <french>Djemorah</french>
+    <latitude>35.03307760</latitude>
+    <longitude>5.74079060</longitude>
+  </daira>
+  <daira id="98" id_state="7">
+    <arabic>طولقة</arabic>
+    <french>Tolga</french>
+    <latitude>34.88830800</latitude>
+    <longitude>5.24582290</longitude>
+  </daira>
+  <daira id="99" id_state="7">
+    <arabic>أورلال</arabic>
+    <french>Ourlal</french>
+    <latitude>34.58671700</latitude>
+    <longitude>5.60711130</longitude>
+  </daira>
+  <daira id="100" id_state="7">
+    <arabic>فوغالة</arabic>
+    <french>Foughala</french>
+    <latitude>34.71838180</latitude>
+    <longitude>5.26311700</longitude>
+  </daira>
+  <daira id="101" id_state="52">
+    <arabic>أولاد جلال (ولاية منتدبة)</arabic>
+    <french>Ouled Djellal (Wilaya Déléguée) </french>
+    <latitude>34.59174210</latitude>
+    <longitude>4.94451810</longitude>
+  </daira>
+  <daira id="102" id_state="8">
+    <arabic>بشار</arabic>
+    <french>Bechar</french>
+    <latitude>31.62298100</latitude>
+    <longitude>-1.91419900</longitude>
+  </daira>
+  <daira id="103" id_state="51">
+    <arabic>أولاد خضير</arabic>
+    <french>Ouled Khodeir</french>
+    <latitude>29.22758180</latitude>
+    <longitude>-0.94598800</longitude>
+  </daira>
+  <daira id="104" id_state="8">
+    <arabic>لحمر</arabic>
+    <french>Lahmar</french>
+    <latitude>31.93889230</latitude>
+    <longitude>-2.45854310</longitude>
+  </daira>
+  <daira id="105" id_state="51">
+    <arabic>بني عباس</arabic>
+    <french>Beni Abbes</french>
+    <latitude>30.10892100</latitude>
+    <longitude>-2.46225480</longitude>
+  </daira>
+  <daira id="106" id_state="8">
+    <arabic>القنادسة</arabic>
+    <french>Kenadsa</french>
+    <latitude>31.48931710</latitude>
+    <longitude>-2.99021710</longitude>
+  </daira>
+  <daira id="107" id_state="51">
+    <arabic>إقلي</arabic>
+    <french>Igli</french>
+    <latitude>30.47654480</latitude>
+    <longitude>-2.53718200</longitude>
+  </daira>
+  <daira id="108" id_state="51">
+    <arabic>تبلبالة</arabic>
+    <french>Tabelbala</french>
+    <latitude>28.98022440</latitude>
+    <longitude>-3.42929020</longitude>
+  </daira>
+  <daira id="109" id_state="8">
+    <arabic>تاغيت</arabic>
+    <french>Taghit</french>
+    <latitude>31.07391480</latitude>
+    <longitude>-1.66409320</longitude>
+  </daira>
+  <daira id="110" id_state="51">
+    <arabic>الواتة</arabic>
+    <french>El Ouata</french>
+    <latitude>30.13671030</latitude>
+    <longitude>-1.35548500</longitude>
+  </daira>
+  <daira id="111" id_state="8">
+    <arabic>العبادلة</arabic>
+    <french>Abadla</french>
+    <latitude>30.89537950</latitude>
+    <longitude>-2.98500340</longitude>
+  </daira>
+  <daira id="112" id_state="51">
+    <arabic>كرزاز</arabic>
+    <french>Kerzaz</french>
+    <latitude>29.77876400</latitude>
+    <longitude>-1.10208560</longitude>
+  </daira>
+  <daira id="113" id_state="8">
+    <arabic>بني ونيف</arabic>
+    <french>Beni Ounif</french>
+    <latitude>31.56131200</latitude>
+    <longitude>-0.89427210</longitude>
+  </daira>
+  <daira id="114" id_state="51">
+    <arabic>بني عباس (ولاية منتدبة)</arabic>
+    <french>Beni Abbes (Wilaya Déléguée) </french>
+    <latitude>30.10892100</latitude>
+    <longitude>-2.46225480</longitude>
+  </daira>
+  <daira id="115" id_state="9">
+    <arabic>البليدة</arabic>
+    <french>Blida</french>
+    <latitude>36.43997310</latitude>
+    <longitude>2.79723120</longitude>
+  </daira>
+  <daira id="116" id_state="9">
+    <arabic>بوعينان</arabic>
+    <french>Bouinan</french>
+    <latitude>36.54624790</latitude>
+    <longitude>3.00581820</longitude>
+  </daira>
+  <daira id="117" id_state="9">
+    <arabic>وادي العلايق</arabic>
+    <french>Oued El Alleug</french>
+    <latitude>36.57283430</latitude>
+    <longitude>2.80265840</longitude>
+  </daira>
+  <daira id="118" id_state="9">
+    <arabic>أولاد يعيش</arabic>
+    <french>Ouled Yaich</french>
+    <latitude>36.47005150</latitude>
+    <longitude>2.94754930</longitude>
+  </daira>
+  <daira id="119" id_state="9">
+    <arabic>العفرون</arabic>
+    <french>El Affroun</french>
+    <latitude>36.44581130</latitude>
+    <longitude>2.58180260</longitude>
+  </daira>
+  <daira id="120" id_state="9">
+    <arabic>موزاية</arabic>
+    <french>Mouzaia</french>
+    <latitude>36.45700510</latitude>
+    <longitude>2.69990070</longitude>
+  </daira>
+  <daira id="121" id_state="9">
+    <arabic>مفتاح</arabic>
+    <french>Meftah</french>
+    <latitude>36.60917010</latitude>
+    <longitude>3.23160180</longitude>
+  </daira>
+  <daira id="122" id_state="9">
+    <arabic>بوفاريك</arabic>
+    <french>Boufarik</french>
+    <latitude>36.53544130</latitude>
+    <longitude>2.91073590</longitude>
+  </daira>
+  <daira id="123" id_state="9">
+    <arabic>الأربعاء</arabic>
+    <french>Larbaa</french>
+    <latitude>36.55966770</latitude>
+    <longitude>3.15451200</longitude>
+  </daira>
+  <daira id="124" id_state="9">
+    <arabic>بوقرة</arabic>
+    <french>Bougara</french>
+    <latitude>36.47155330</latitude>
+    <longitude>3.07501940</longitude>
+  </daira>
+  <daira id="125" id_state="10">
+    <arabic>البويرة</arabic>
+    <french>Bouira</french>
+    <latitude>36.39016500</latitude>
+    <longitude>3.87221940</longitude>
+  </daira>
+  <daira id="126" id_state="10">
+    <arabic>سوق الخميس</arabic>
+    <french>Souk El Khemis</french>
+    <latitude>36.40757950</latitude>
+    <longitude>3.62132480</longitude>
+  </daira>
+  <daira id="127" id_state="10">
+    <arabic>القادرية</arabic>
+    <french>Kadiria</french>
+    <latitude>36.50403400</latitude>
+    <longitude>3.71695580</longitude>
+  </daira>
+  <daira id="128" id_state="10">
+    <arabic>الحيزر</arabic>
+    <french>Haizer</french>
+    <latitude>36.40754650</latitude>
+    <longitude>4.00657950</longitude>
+  </daira>
+  <daira id="129" id_state="10">
+    <arabic>الأخضرية</arabic>
+    <french>Lakhdaria</french>
+    <latitude>36.50749900</latitude>
+    <longitude>3.45814640</longitude>
+  </daira>
+  <daira id="130" id_state="10">
+    <arabic>الهاشمية</arabic>
+    <french>El Hachimia</french>
+    <latitude>36.22690750</latitude>
+    <longitude>3.84834640</longitude>
+  </daira>
+  <daira id="131" id_state="10">
+    <arabic>برج أوخريص</arabic>
+    <french>Bordj Okhriss</french>
+    <latitude>36.00514560</latitude>
+    <longitude>3.93839820</longitude>
+  </daira>
+  <daira id="132" id_state="10">
+    <arabic>بشلول</arabic>
+    <french>Bechloul</french>
+    <latitude>36.29306800</latitude>
+    <longitude>4.04830040</longitude>
+  </daira>
+  <daira id="133" id_state="10">
+    <arabic>عين بسام</arabic>
+    <french>Ain Bessem</french>
+    <latitude>36.33631680</latitude>
+    <longitude>3.73536140</longitude>
+  </daira>
+  <daira id="134" id_state="10">
+    <arabic>بئر غبالو</arabic>
+    <french>Bir Ghbalou</french>
+    <latitude>36.25336610</latitude>
+    <longitude>3.61610530</longitude>
+  </daira>
+  <daira id="135" id_state="10">
+    <arabic>مشد الله</arabic>
+    <french>M'chedallah</french>
+    <latitude>36.32797100</latitude>
+    <longitude>4.26412120</longitude>
+  </daira>
+  <daira id="136" id_state="10">
+    <arabic>سور الغزلان</arabic>
+    <french>Sour El Ghozlane</french>
+    <latitude>36.08026480</latitude>
+    <longitude>3.63842240</longitude>
+  </daira>
+  <daira id="137" id_state="11">
+    <arabic>تمنراست</arabic>
+    <french>Tamanrasset</french>
+    <latitude>23.73435250</latitude>
+    <longitude>3.43716850</longitude>
+  </daira>
+  <daira id="138" id_state="11">
+    <arabic>سيلت</arabic>
+    <french>Silet</french>
+    <latitude>22.65723700</latitude>
+    <longitude>4.56952100</longitude>
+  </daira>
+  <daira id="139" id_state="53">
+    <arabic>إينغر</arabic>
+    <french>In Ghar</french>
+    <latitude>26.56100250</latitude>
+    <longitude>1.87117750</longitude>
+  </daira>
+  <daira id="140" id_state="54">
+    <arabic>عين قزام</arabic>
+    <french>In Guezzam</french>
+    <latitude>20.39047900</latitude>
+    <longitude>5.48311210</longitude>
+  </daira>
+  <daira id="141" id_state="11">
+    <arabic>تاظروك</arabic>
+    <french>Tazrouk</french>
+    <latitude>24.22647050</latitude>
+    <longitude>6.49765770</longitude>
+  </daira>
+  <daira id="142" id_state="54">
+    <arabic>تين زواتين</arabic>
+    <french>Tin Zouatine</french>
+    <latitude>20.43499750</latitude>
+    <longitude>3.20388330</longitude>
+  </daira>
+  <daira id="143" id_state="53">
+    <arabic>عين صالح</arabic>
+    <french>In Salah</french>
+    <latitude>27.55857650</latitude>
+    <longitude>3.94570500</longitude>
+  </daira>
+  <daira id="144" id_state="54">
+    <arabic>عين قزام (ولاية منتدبة)</arabic>
+    <french>In Guezzam (Wilaya Déléguée) </french>
+    <latitude>20.39047900</latitude>
+    <longitude>5.48311210</longitude>
+  </daira>
+  <daira id="145" id_state="53">
+    <arabic>عين صالح (ولاية منتدبة)</arabic>
+    <french>In Salah (Wilaya Déléguée) </french>
+    <latitude>27.55857650</latitude>
+    <longitude>3.94570500</longitude>
+  </daira>
+  <daira id="146" id_state="12">
+    <arabic>تبسة</arabic>
+    <french>Tebessa</french>
+    <latitude>35.39832430</latitude>
+    <longitude>8.08850050</longitude>
+  </daira>
+  <daira id="147" id_state="12">
+    <arabic>بئر العاتر</arabic>
+    <french>Bir El Ater</french>
+    <latitude>34.87406480</latitude>
+    <longitude>7.99428500</longitude>
+  </daira>
+  <daira id="148" id_state="12">
+    <arabic>الشريعة</arabic>
+    <french>Cheria</french>
+    <latitude>34.91339350</latitude>
+    <longitude>7.78657550</longitude>
+  </daira>
+  <daira id="149" id_state="12">
+    <arabic>العوينات</arabic>
+    <french>El Aouinet</french>
+    <latitude>35.83799500</latitude>
+    <longitude>7.95000120</longitude>
+  </daira>
+  <daira id="150" id_state="12">
+    <arabic>نقرين</arabic>
+    <french>Negrine</french>
+    <latitude>34.46626350</latitude>
+    <longitude>7.46588570</longitude>
+  </daira>
+  <daira id="151" id_state="12">
+    <arabic>بئر مقدم</arabic>
+    <french>Bir Mokadem</french>
+    <latitude>35.44386930</latitude>
+    <longitude>7.79441730</longitude>
+  </daira>
+  <daira id="152" id_state="12">
+    <arabic>الكويف</arabic>
+    <french>El Kouif</french>
+    <latitude>35.47466630</latitude>
+    <longitude>8.21398310</longitude>
+  </daira>
+  <daira id="153" id_state="12">
+    <arabic>مرسط</arabic>
+    <french>Morsott</french>
+    <latitude>35.62165350</latitude>
+    <longitude>7.97589220</longitude>
+  </daira>
+  <daira id="154" id_state="12">
+    <arabic>العقلة</arabic>
+    <french>El Ogla</french>
+    <latitude>34.95467700</latitude>
+    <longitude>7.48648130</longitude>
+  </daira>
+  <daira id="155" id_state="12">
+    <arabic>الونزة</arabic>
+    <french>Ouenza</french>
+    <latitude>35.76125110</latitude>
+    <longitude>8.20133260</longitude>
+  </daira>
+  <daira id="156" id_state="12">
+    <arabic>الماء الابيض</arabic>
+    <french>El Malabiod</french>
+    <latitude>35.24985750</latitude>
+    <longitude>8.23495320</longitude>
+  </daira>
+  <daira id="157" id_state="12">
+    <arabic>أم علي</arabic>
+    <french>Oum Ali</french>
+    <latitude>34.97465240</latitude>
+    <longitude>8.20510190</longitude>
+  </daira>
+  <daira id="158" id_state="13">
+    <arabic>تلمسان</arabic>
+    <french>Tlemcen</french>
+    <latitude>34.89620020</latitude>
+    <longitude>-1.31540080</longitude>
+  </daira>
+  <daira id="159" id_state="13">
+    <arabic>عين تالوت</arabic>
+    <french>Ain Tellout</french>
+    <latitude>34.81812960</latitude>
+    <longitude>-0.93601500</longitude>
+  </daira>
+  <daira id="160" id_state="13">
+    <arabic>الرمشي</arabic>
+    <french>Remchi</french>
+    <latitude>35.11400870</latitude>
+    <longitude>-1.43661860</longitude>
+  </daira>
+  <daira id="161" id_state="13">
+    <arabic>صبرة</arabic>
+    <french>Sabra</french>
+    <latitude>34.83568610</latitude>
+    <longitude>-1.56564020</longitude>
+  </daira>
+  <daira id="162" id_state="13">
+    <arabic>الغزوات</arabic>
+    <french>Ghazaouet</french>
+    <latitude>35.05908130</latitude>
+    <longitude>-1.88550900</longitude>
+  </daira>
+  <daira id="163" id_state="13">
+    <arabic>أولاد ميمون</arabic>
+    <french>Ouled Mimoun</french>
+    <latitude>34.82731530</latitude>
+    <longitude>-1.10495240</longitude>
+  </daira>
+  <daira id="164" id_state="13">
+    <arabic>بني سنوس</arabic>
+    <french>Beni Snous</french>
+    <latitude>34.62505660</latitude>
+    <longitude>-1.50099880</longitude>
+  </daira>
+  <daira id="165" id_state="13">
+    <arabic>باب العسة</arabic>
+    <french>Bab El Assa</french>
+    <latitude>34.98012660</latitude>
+    <longitude>-1.98197390</longitude>
+  </daira>
+  <daira id="166" id_state="13">
+    <arabic>فلاوسن</arabic>
+    <french>Fellaoucene</french>
+    <latitude>35.00703410</latitude>
+    <longitude>-1.62423930</longitude>
+  </daira>
+  <daira id="167" id_state="13">
+    <arabic>بن سكران</arabic>
+    <french>Bensekrane</french>
+    <latitude>35.05245850</latitude>
+    <longitude>-1.11177850</longitude>
+  </daira>
+  <daira id="168" id_state="13">
+    <arabic>الحناية</arabic>
+    <french>Hennaya</french>
+    <latitude>34.96854410</latitude>
+    <longitude>-1.44803050</longitude>
+  </daira>
+  <daira id="169" id_state="13">
+    <arabic>مغنية</arabic>
+    <french>Maghnia</french>
+    <latitude>34.87218630</latitude>
+    <longitude>-1.80231830</longitude>
+  </daira>
+  <daira id="170" id_state="13">
+    <arabic>سبدو</arabic>
+    <french>Sebdou</french>
+    <latitude>34.46777530</latitude>
+    <longitude>-1.12561640</longitude>
+  </daira>
+  <daira id="171" id_state="13">
+    <arabic>بني بوسعيد</arabic>
+    <french>Beni Boussaid</french>
+    <latitude>34.65233300</latitude>
+    <longitude>-1.72599730</longitude>
+  </daira>
+  <daira id="172" id_state="13">
+    <arabic>مرسى بن مهيدي</arabic>
+    <french>Marsa Ben Mehdi</french>
+    <latitude>35.03011740</latitude>
+    <longitude>-2.11336620</longitude>
+  </daira>
+  <daira id="173" id_state="13">
+    <arabic>ندرومة</arabic>
+    <french>Nedroma</french>
+    <latitude>35.00522560</latitude>
+    <longitude>-1.78046440</longitude>
+  </daira>
+  <daira id="174" id_state="13">
+    <arabic>سيدي الجيلالي</arabic>
+    <french>Sidi Djillali</french>
+    <latitude>34.34735870</latitude>
+    <longitude>-1.53792800</longitude>
+  </daira>
+  <daira id="175" id_state="13">
+    <arabic>هنين</arabic>
+    <french>Honnaine</french>
+    <latitude>35.17295620</latitude>
+    <longitude>-1.61830120</longitude>
+  </daira>
+  <daira id="176" id_state="13">
+    <arabic>شتوان</arabic>
+    <french>Chetouane</french>
+    <latitude>34.95154970</latitude>
+    <longitude>-1.24626150</longitude>
+  </daira>
+  <daira id="177" id_state="13">
+    <arabic>منصورة</arabic>
+    <french>Mansourah</french>
+    <latitude>34.81235160</latitude>
+    <longitude>-1.33914760</longitude>
+  </daira>
+  <daira id="178" id_state="14">
+    <arabic>تيارت</arabic>
+    <french>Tiaret</french>
+    <latitude>35.34684310</latitude>
+    <longitude>1.33517070</longitude>
+  </daira>
+  <daira id="179" id_state="14">
+    <arabic>مدروسة</arabic>
+    <french>Medroussa</french>
+    <latitude>35.20443300</latitude>
+    <longitude>1.09230200</longitude>
+  </daira>
+  <daira id="180" id_state="14">
+    <arabic>عين الذهب</arabic>
+    <french>Ain Deheb</french>
+    <latitude>34.61395990</latitude>
+    <longitude>1.65417360</longitude>
+  </daira>
+  <daira id="181" id_state="14">
+    <arabic>دحموني</arabic>
+    <french>Dahmouni</french>
+    <latitude>35.39797740</latitude>
+    <longitude>1.46108400</longitude>
+  </daira>
+  <daira id="182" id_state="14">
+    <arabic>رحوية</arabic>
+    <french>Rahouia</french>
+    <latitude>35.49304700</latitude>
+    <longitude>1.04017200</longitude>
+  </daira>
+  <daira id="183" id_state="14">
+    <arabic>مهدية</arabic>
+    <french>Mahdia</french>
+    <latitude>35.31211890</latitude>
+    <longitude>1.81883860</longitude>
+  </daira>
+  <daira id="184" id_state="14">
+    <arabic>السوقر</arabic>
+    <french>Sougueur</french>
+    <latitude>34.96517950</latitude>
+    <longitude>1.92150200</longitude>
+  </daira>
+  <daira id="185" id_state="14">
+    <arabic>مغيلة</arabic>
+    <french>Meghila</french>
+    <latitude>35.57852500</latitude>
+    <longitude>1.49486050</longitude>
+  </daira>
+  <daira id="186" id_state="14">
+    <arabic>فرندة</arabic>
+    <french>Frenda</french>
+    <latitude>35.11902250</latitude>
+    <longitude>0.82035870</longitude>
+  </daira>
+  <daira id="187" id_state="14">
+    <arabic>عين كرمس</arabic>
+    <french>Ain Kermes</french>
+    <latitude>34.61045090</latitude>
+    <longitude>0.99872520</longitude>
+  </daira>
+  <daira id="188" id_state="14">
+    <arabic>قصر الشلالة</arabic>
+    <french>Ksar Chellala</french>
+    <latitude>35.06186000</latitude>
+    <longitude>2.37508790</longitude>
+  </daira>
+  <daira id="189" id_state="14">
+    <arabic>وادي ليلي</arabic>
+    <french>Oued Lili</french>
+    <latitude>35.54181450</latitude>
+    <longitude>1.25997000</longitude>
+  </daira>
+  <daira id="190" id_state="14">
+    <arabic>مشرع الصفا</arabic>
+    <french>Mechraa Sfa</french>
+    <latitude>35.35327690</latitude>
+    <longitude>1.07273120</longitude>
+  </daira>
+  <daira id="191" id_state="14">
+    <arabic>حمادية</arabic>
+    <french>Hamadia</french>
+    <latitude>35.36898050</latitude>
+    <longitude>2.07554660</longitude>
+  </daira>
+  <daira id="192" id_state="15">
+    <arabic>تيزي وزو</arabic>
+    <french>Tizi Ouzou</french>
+    <latitude>36.69979060</latitude>
+    <longitude>4.05510530</longitude>
+  </daira>
+  <daira id="193" id_state="15">
+    <arabic>عين الحمام</arabic>
+    <french>Ain El Hammam</french>
+    <latitude>36.55237170</latitude>
+    <longitude>4.30320160</longitude>
+  </daira>
+  <daira id="194" id_state="15">
+    <arabic>ماكودة</arabic>
+    <french>Makouda</french>
+    <latitude>36.79450770</latitude>
+    <longitude>4.09565550</longitude>
+  </daira>
+  <daira id="195" id_state="15">
+    <arabic>ذراع الميزان</arabic>
+    <french>Draa El Mizan</french>
+    <latitude>36.57413450</latitude>
+    <longitude>3.87243240</longitude>
+  </daira>
+  <daira id="196" id_state="15">
+    <arabic>تيزي غنيف</arabic>
+    <french>Tizi-Ghenif</french>
+    <latitude>36.60760500</latitude>
+    <longitude>3.78795060</longitude>
+  </daira>
+  <daira id="197" id_state="15">
+    <arabic>إفرحونان</arabic>
+    <french>Iferhounene</french>
+    <latitude>36.53907400</latitude>
+    <longitude>4.38280930</longitude>
+  </daira>
+  <daira id="198" id_state="15">
+    <arabic>عزازقة</arabic>
+    <french>Azazga</french>
+    <latitude>36.73998250</latitude>
+    <longitude>4.41257440</longitude>
+  </daira>
+  <daira id="199" id_state="15">
+    <arabic>الأربعاء ناث إيراثن</arabic>
+    <french>Larbaa Nath Iraten</french>
+    <latitude>36.63749180</latitude>
+    <longitude>4.20284660</longitude>
+  </daira>
+  <daira id="200" id_state="15">
+    <arabic>تيزي راشد</arabic>
+    <french>Tizi Rached</french>
+    <latitude>36.66843960</latitude>
+    <longitude>4.20824860</longitude>
+  </daira>
+  <daira id="201" id_state="15">
+    <arabic>واقنون</arabic>
+    <french>Ouaguenoun</french>
+    <latitude>36.78310770</latitude>
+    <longitude>4.23494780</longitude>
+  </daira>
+  <daira id="202" id_state="15">
+    <arabic>معاتقة</arabic>
+    <french>Maatkas</french>
+    <latitude>36.60596130</latitude>
+    <longitude>3.98129460</longitude>
+  </daira>
+  <daira id="203" id_state="15">
+    <arabic>بني دوالة</arabic>
+    <french>Beni Douala</french>
+    <latitude>36.63359910</latitude>
+    <longitude>4.08505240</longitude>
+  </daira>
+  <daira id="204" id_state="15">
+    <arabic>بوزقن</arabic>
+    <french>Bouzeguene</french>
+    <latitude>36.61704120</latitude>
+    <longitude>4.47702400</longitude>
+  </daira>
+  <daira id="205" id_state="15">
+    <arabic>واضية</arabic>
+    <french>Ouadhias</french>
+    <latitude>36.52627150</latitude>
+    <longitude>4.08062920</longitude>
+  </daira>
+  <daira id="206" id_state="15">
+    <arabic>أزفون</arabic>
+    <french>Azeffoun</french>
+    <latitude>36.83805440</latitude>
+    <longitude>4.42393970</longitude>
+  </daira>
+  <daira id="207" id_state="15">
+    <arabic>تيقزيرت</arabic>
+    <french>Tigzirt</french>
+    <latitude>36.86574360</latitude>
+    <longitude>4.15670670</longitude>
+  </daira>
+  <daira id="208" id_state="15">
+    <arabic>بوغني</arabic>
+    <french>Boghni</french>
+    <latitude>36.51423550</latitude>
+    <longitude>3.97235160</longitude>
+  </daira>
+  <daira id="209" id_state="15">
+    <arabic>ذراع بن خدة</arabic>
+    <french>Draa Ben Khedda</french>
+    <latitude>36.72098060</latitude>
+    <longitude>3.92233080</longitude>
+  </daira>
+  <daira id="210" id_state="15">
+    <arabic>واسيف</arabic>
+    <french>Ouacif</french>
+    <latitude>36.51416090</latitude>
+    <longitude>4.18565640</longitude>
+  </daira>
+  <daira id="211" id_state="15">
+    <arabic>مقلع</arabic>
+    <french>Mekla</french>
+    <latitude>36.67675190</latitude>
+    <longitude>4.30535490</longitude>
+  </daira>
+  <daira id="212" id_state="15">
+    <arabic>بني يني</arabic>
+    <french>Benni Yenni</french>
+    <latitude>36.53266270</latitude>
+    <longitude>4.26459550</longitude>
+  </daira>
+  <daira id="213" id_state="16">
+    <arabic>سيدي امحمد</arabic>
+    <french>Sidi M'hamed</french>
+    <latitude>36.75856250</latitude>
+    <longitude>3.05630690</longitude>
+  </daira>
+  <daira id="214" id_state="16">
+    <arabic>باب الوادي</arabic>
+    <french>Bab El Oued</french>
+    <latitude>36.79708350</latitude>
+    <longitude>3.04450880</longitude>
+  </daira>
+  <daira id="215" id_state="16">
+    <arabic>بئر مراد رايس</arabic>
+    <french>Bir Mourad Rais</french>
+    <latitude>36.70703700</latitude>
+    <longitude>3.04075150</longitude>
+  </daira>
+  <daira id="216" id_state="16">
+    <arabic>بوزريعة</arabic>
+    <french>Bouzareah</french>
+    <latitude>36.77752030</latitude>
+    <longitude>2.99706530</longitude>
+  </daira>
+  <daira id="217" id_state="16">
+    <arabic>الحراش</arabic>
+    <french>El Harrach</french>
+    <latitude>36.72123070</latitude>
+    <longitude>3.13741040</longitude>
+  </daira>
+  <daira id="218" id_state="16">
+    <arabic>براقي</arabic>
+    <french>Baraki</french>
+    <latitude>36.64206530</latitude>
+    <longitude>3.10843220</longitude>
+  </daira>
+  <daira id="219" id_state="16">
+    <arabic>حسين داي</arabic>
+    <french>Hussein Dey</french>
+    <latitude>36.73041330</latitude>
+    <longitude>3.08783500</longitude>
+  </daira>
+  <daira id="220" id_state="16">
+    <arabic>الدار البيضاء</arabic>
+    <french>Dar El Beida</french>
+    <latitude>36.74103340</latitude>
+    <longitude>3.18766520</longitude>
+  </daira>
+  <daira id="221" id_state="16">
+    <arabic>بئر توتة</arabic>
+    <french>Birtouta</french>
+    <latitude>36.62393340</latitude>
+    <longitude>2.97284560</longitude>
+  </daira>
+  <daira id="222" id_state="16">
+    <arabic>الرويبة</arabic>
+    <french>Rouiba</french>
+    <latitude>36.74265070</latitude>
+    <longitude>3.31062140</longitude>
+  </daira>
+  <daira id="223" id_state="16">
+    <arabic>زرالدة</arabic>
+    <french>Zeralda</french>
+    <latitude>36.69928180</latitude>
+    <longitude>2.86728420</longitude>
+  </daira>
+  <daira id="224" id_state="16">
+    <arabic>الدرارية</arabic>
+    <french>Draria</french>
+    <latitude>36.68957040</latitude>
+    <longitude>2.97353890</longitude>
+  </daira>
+  <daira id="225" id_state="16">
+    <arabic>الشراقة</arabic>
+    <french>Cheraga</french>
+    <latitude>36.75894510</latitude>
+    <longitude>2.94545880</longitude>
+  </daira>
+  <daira id="226" id_state="17">
+    <arabic>الجلفة</arabic>
+    <french>Djelfa</french>
+    <latitude>34.66592650</latitude>
+    <longitude>3.21037690</longitude>
+  </daira>
+  <daira id="227" id_state="17">
+    <arabic>حاسي بحبح</arabic>
+    <french>Hassi Bahbah</french>
+    <latitude>34.86999210</latitude>
+    <longitude>3.02531970</longitude>
+  </daira>
+  <daira id="228" id_state="17">
+    <arabic>فيض البطمة</arabic>
+    <french>Faidh El Botma</french>
+    <latitude>33.91987400</latitude>
+    <longitude>4.09208060</longitude>
+  </daira>
+  <daira id="229" id_state="17">
+    <arabic>بيرين</arabic>
+    <french>Birine</french>
+    <latitude>35.53092040</latitude>
+    <longitude>3.16366320</longitude>
+  </daira>
+  <daira id="230" id_state="17">
+    <arabic>الادريسية</arabic>
+    <french>El Idrissia</french>
+    <latitude>34.32035160</latitude>
+    <longitude>2.61448000</longitude>
+  </daira>
+  <daira id="231" id_state="17">
+    <arabic>مسعد</arabic>
+    <french>Messaad</french>
+    <latitude>34.15152420</latitude>
+    <longitude>3.49166400</longitude>
+  </daira>
+  <daira id="232" id_state="17">
+    <arabic>سيدي لعجال</arabic>
+    <french>Sidi Laadjel</french>
+    <latitude>35.40483250</latitude>
+    <longitude>2.49878440</longitude>
+  </daira>
+  <daira id="233" id_state="17">
+    <arabic>حد الصحاري</arabic>
+    <french>Had Sahary</french>
+    <latitude>35.34125700</latitude>
+    <longitude>3.42943730</longitude>
+  </daira>
+  <daira id="234" id_state="17">
+    <arabic>دار الشيوخ</arabic>
+    <french>Dar Chioukh</french>
+    <latitude>34.87358600</latitude>
+    <longitude>3.43497080</longitude>
+  </daira>
+  <daira id="235" id_state="17">
+    <arabic>الشارف</arabic>
+    <french>Charef</french>
+    <latitude>34.63869950</latitude>
+    <longitude>2.61767780</longitude>
+  </daira>
+  <daira id="236" id_state="17">
+    <arabic>عين الإبل</arabic>
+    <french>Ain El Ibel</french>
+    <latitude>34.37955000</latitude>
+    <longitude>3.06351860</longitude>
+  </daira>
+  <daira id="237" id_state="17">
+    <arabic>عين وسارة</arabic>
+    <french>Ain Oussera</french>
+    <latitude>35.43222710</latitude>
+    <longitude>2.89913120</longitude>
+  </daira>
+  <daira id="238" id_state="18">
+    <arabic>جيجل</arabic>
+    <french>Jijel</french>
+    <latitude>36.79520030</latitude>
+    <longitude>5.74160870</longitude>
+  </daira>
+  <daira id="239" id_state="18">
+    <arabic>العوانة</arabic>
+    <french>El Aouana</french>
+    <latitude>36.69508740</latitude>
+    <longitude>5.63697840</longitude>
+  </daira>
+  <daira id="240" id_state="18">
+    <arabic>زيامة منصورية</arabic>
+    <french>Ziamah Mansouriah</french>
+    <latitude>36.61513460</latitude>
+    <longitude>5.51220660</longitude>
+  </daira>
+  <daira id="241" id_state="18">
+    <arabic>الطاهير</arabic>
+    <french>Taher</french>
+    <latitude>36.71261100</latitude>
+    <longitude>5.90405240</longitude>
+  </daira>
+  <daira id="242" id_state="18">
+    <arabic>الشقفة</arabic>
+    <french>Chekfa</french>
+    <latitude>36.78382300</latitude>
+    <longitude>5.98541740</longitude>
+  </daira>
+  <daira id="243" id_state="18">
+    <arabic>الميلية</arabic>
+    <french>El Milia</french>
+    <latitude>36.79029810</latitude>
+    <longitude>6.29133900</longitude>
+  </daira>
+  <daira id="244" id_state="18">
+    <arabic>سيدي معروف</arabic>
+    <french>Sidi Marouf</french>
+    <latitude>36.62942050</latitude>
+    <longitude>6.22265070</longitude>
+  </daira>
+  <daira id="245" id_state="18">
+    <arabic>السطارة</arabic>
+    <french>Settara</french>
+    <latitude>36.66338800</latitude>
+    <longitude>6.42274710</longitude>
+  </daira>
+  <daira id="246" id_state="18">
+    <arabic>العنصر</arabic>
+    <french>El Ancer</french>
+    <latitude>36.77729020</latitude>
+    <longitude>6.15503750</longitude>
+  </daira>
+  <daira id="247" id_state="18">
+    <arabic>جيملة</arabic>
+    <french>Djimla</french>
+    <latitude>36.58469300</latitude>
+    <longitude>5.82200910</longitude>
+  </daira>
+  <daira id="248" id_state="18">
+    <arabic>تاكسنة</arabic>
+    <french>Texenna</french>
+    <latitude>36.69566420</latitude>
+    <longitude>5.77088960</longitude>
+  </daira>
+  <daira id="249" id_state="19">
+    <arabic>سطيف</arabic>
+    <french>Setif</french>
+    <latitude>36.19076450</latitude>
+    <longitude>5.41789020</longitude>
+  </daira>
+  <daira id="250" id_state="19">
+    <arabic>عين الكبيرة</arabic>
+    <french>Ain El Kebira</french>
+    <latitude>36.37304800</latitude>
+    <longitude>5.57545520</longitude>
+  </daira>
+  <daira id="251" id_state="19">
+    <arabic>بني عزيز</arabic>
+    <french>Beni Aziz</french>
+    <latitude>36.43074250</latitude>
+    <longitude>5.70502680</longitude>
+  </daira>
+  <daira id="252" id_state="19">
+    <arabic>بئر العرش</arabic>
+    <french>Bir El Arch</french>
+    <latitude>36.15271800</latitude>
+    <longitude>5.84520030</longitude>
+  </daira>
+  <daira id="253" id_state="19">
+    <arabic>بابور</arabic>
+    <french>Babor</french>
+    <latitude>36.49751450</latitude>
+    <longitude>5.54933470</longitude>
+  </daira>
+  <daira id="254" id_state="19">
+    <arabic>قجال</arabic>
+    <french>Guidjel</french>
+    <latitude>36.13192600</latitude>
+    <longitude>5.52385770</longitude>
+  </daira>
+  <daira id="255" id_state="19">
+    <arabic>العلمة</arabic>
+    <french>El Eulma</french>
+    <latitude>36.13551500</latitude>
+    <longitude>5.69508190</longitude>
+  </daira>
+  <daira id="256" id_state="19">
+    <arabic>جميلة</arabic>
+    <french>Djemila</french>
+    <latitude>36.32308750</latitude>
+    <longitude>5.77743030</longitude>
+  </daira>
+  <daira id="257" id_state="19">
+    <arabic>بني ورتيلان</arabic>
+    <french>Beni Ourtilane</french>
+    <latitude>36.45055900</latitude>
+    <longitude>4.85776500</longitude>
+  </daira>
+  <daira id="258" id_state="19">
+    <arabic>عين أرنات</arabic>
+    <french>Ain Arnat</french>
+    <latitude>36.21677550</latitude>
+    <longitude>5.25027650</longitude>
+  </daira>
+  <daira id="259" id_state="19">
+    <arabic>عموشة</arabic>
+    <french>Amoucha</french>
+    <latitude>36.42701700</latitude>
+    <longitude>5.37826640</longitude>
+  </daira>
+  <daira id="260" id_state="19">
+    <arabic>عين ولمان</arabic>
+    <french>Ain Oulmene</french>
+    <latitude>35.96947540</latitude>
+    <longitude>5.24563260</longitude>
+  </daira>
+  <daira id="261" id_state="19">
+    <arabic>بوعنداس</arabic>
+    <french>Bouandas</french>
+    <latitude>36.51908050</latitude>
+    <longitude>5.11954440</longitude>
+  </daira>
+  <daira id="262" id_state="19">
+    <arabic>حمام السخنة</arabic>
+    <french>Hammam Sokhna</french>
+    <latitude>35.93549850</latitude>
+    <longitude>5.83067430</longitude>
+  </daira>
+  <daira id="263" id_state="19">
+    <arabic>صالح باي</arabic>
+    <french>Salah Bey</french>
+    <latitude>35.75959900</latitude>
+    <longitude>5.22132850</longitude>
+  </daira>
+  <daira id="264" id_state="19">
+    <arabic>عين أزال</arabic>
+    <french>Ain Azel</french>
+    <latitude>35.89625100</latitude>
+    <longitude>5.58153740</longitude>
+  </daira>
+  <daira id="265" id_state="19">
+    <arabic>قنزات</arabic>
+    <french>Guenzet</french>
+    <latitude>36.34522600</latitude>
+    <longitude>4.87984430</longitude>
+  </daira>
+  <daira id="266" id_state="19">
+    <arabic>بوقاعة</arabic>
+    <french>Bougaa</french>
+    <latitude>36.30305900</latitude>
+    <longitude>5.14678510</longitude>
+  </daira>
+  <daira id="267" id_state="19">
+    <arabic>حمام قرقور</arabic>
+    <french>Hammam Guergour</french>
+    <latitude>36.37582100</latitude>
+    <longitude>4.98799520</longitude>
+  </daira>
+  <daira id="268" id_state="19">
+    <arabic>ماوكلان</arabic>
+    <french>Maoklane</french>
+    <latitude>36.42446300</latitude>
+    <longitude>5.11383940</longitude>
+  </daira>
+  <daira id="269" id_state="20">
+    <arabic>سعيدة</arabic>
+    <french>Saida</french>
+    <latitude>34.84366670</latitude>
+    <longitude>0.12828400</longitude>
+  </daira>
+  <daira id="270" id_state="20">
+    <arabic>عين الحجر</arabic>
+    <french>Ain El Hadjar</french>
+    <latitude>34.59339550</latitude>
+    <longitude>0.17261770</longitude>
+  </daira>
+  <daira id="271" id_state="20">
+    <arabic>يوب</arabic>
+    <french>Youb</french>
+    <latitude>34.88560240</latitude>
+    <longitude>-0.13253250</longitude>
+  </daira>
+  <daira id="272" id_state="20">
+    <arabic>سيدي بوبكر</arabic>
+    <french>Sidi Boubekeur</french>
+    <latitude>34.98904870</latitude>
+    <longitude>0.07856560</longitude>
+  </daira>
+  <daira id="273" id_state="20">
+    <arabic>الحساسنة</arabic>
+    <french>El Hassasna</french>
+    <latitude>34.61295650</latitude>
+    <longitude>0.58119970</longitude>
+  </daira>
+  <daira id="274" id_state="20">
+    <arabic>أولاد ابراهيم</arabic>
+    <french>Ouled Brahim</french>
+    <latitude>34.98538760</latitude>
+    <longitude>0.47864620</longitude>
+  </daira>
+  <daira id="275" id_state="21">
+    <arabic>سكيكدة</arabic>
+    <french>Skikda</french>
+    <latitude>36.86048050</latitude>
+    <longitude>6.96489200</longitude>
+  </daira>
+  <daira id="276" id_state="21">
+    <arabic>الحدائق</arabic>
+    <french>El Hadaiek</french>
+    <latitude>36.85800320</latitude>
+    <longitude>6.79880410</longitude>
+  </daira>
+  <daira id="277" id_state="21">
+    <arabic>عزابة</arabic>
+    <french>Azzaba</french>
+    <latitude>36.73614370</latitude>
+    <longitude>7.15895170</longitude>
+  </daira>
+  <daira id="278" id_state="21">
+    <arabic>بن عزوز</arabic>
+    <french>Ben Azzouz</french>
+    <latitude>36.84257670</latitude>
+    <longitude>7.29675000</longitude>
+  </daira>
+  <daira id="279" id_state="21">
+    <arabic>القل</arabic>
+    <french>Collo</french>
+    <latitude>36.97235520</latitude>
+    <longitude>6.54409950</longitude>
+  </daira>
+  <daira id="280" id_state="21">
+    <arabic>أولاد عطية</arabic>
+    <french>Ouled Attia</french>
+    <latitude>36.96525710</latitude>
+    <longitude>6.33809110</longitude>
+  </daira>
+  <daira id="281" id_state="21">
+    <arabic>الزيتونة</arabic>
+    <french>Zitouna</french>
+    <latitude>37.01558170</latitude>
+    <longitude>6.44660540</longitude>
+  </daira>
+  <daira id="282" id_state="21">
+    <arabic>الحروش</arabic>
+    <french>El Harrouch</french>
+    <latitude>36.59616070</latitude>
+    <longitude>6.86754940</longitude>
+  </daira>
+  <daira id="283" id_state="21">
+    <arabic>سيدي مزغيش</arabic>
+    <french>Sidi Mezghiche</french>
+    <latitude>36.66909000</latitude>
+    <longitude>6.67088920</longitude>
+  </daira>
+  <daira id="284" id_state="21">
+    <arabic>رمضان جمال</arabic>
+    <french>Ramdane Djamel</french>
+    <latitude>36.76840840</latitude>
+    <longitude>6.90616130</longitude>
+  </daira>
+  <daira id="285" id_state="21">
+    <arabic>تمالوس</arabic>
+    <french>Tamalous</french>
+    <latitude>36.86265230</latitude>
+    <longitude>6.65192870</longitude>
+  </daira>
+  <daira id="286" id_state="21">
+    <arabic>عين قشرة</arabic>
+    <french>Ain Kechra</french>
+    <latitude>35.89597420</latitude>
+    <longitude>6.66725850</longitude>
+  </daira>
+  <daira id="287" id_state="21">
+    <arabic>أم الطوب</arabic>
+    <french>Oum Toub</french>
+    <latitude>36.70035880</latitude>
+    <longitude>6.50761670</longitude>
+  </daira>
+  <daira id="288" id_state="22">
+    <arabic>سيدي بلعباس</arabic>
+    <french>Sidi Bel Abbes</french>
+    <latitude>35.20568400</latitude>
+    <longitude>-0.62854000</longitude>
+  </daira>
+  <daira id="289" id_state="22">
+    <arabic>تسالة</arabic>
+    <french>Tessala</french>
+    <latitude>35.26204650</latitude>
+    <longitude>-0.74934670</longitude>
+  </daira>
+  <daira id="290" id_state="22">
+    <arabic>مصطفى بن ابراهيم</arabic>
+    <french>Mostefa  Ben Brahim</french>
+    <latitude>35.18615230</latitude>
+    <longitude>-0.42842650</longitude>
+  </daira>
+  <daira id="291" id_state="22">
+    <arabic>تلاغ</arabic>
+    <french>Telagh</french>
+    <latitude>34.75159980</latitude>
+    <longitude>-0.55454900</longitude>
+  </daira>
+  <daira id="292" id_state="22">
+    <arabic>سيدي علي بوسيدي</arabic>
+    <french>Sidi Ali Boussidi</french>
+    <latitude>35.10202300</latitude>
+    <longitude>-0.88425910</longitude>
+  </daira>
+  <daira id="293" id_state="22">
+    <arabic>مرحوم</arabic>
+    <french>Marhoum</french>
+    <latitude>34.28834250</latitude>
+    <longitude>-0.24661090</longitude>
+  </daira>
+  <daira id="294" id_state="22">
+    <arabic>سيدي لحسن</arabic>
+    <french>Sidi Lahcene</french>
+    <latitude>35.13459150</latitude>
+    <longitude>-0.69534020</longitude>
+  </daira>
+  <daira id="295" id_state="22">
+    <arabic>تنيرة</arabic>
+    <french>Tenira</french>
+    <latitude>35.01651670</latitude>
+    <longitude>-0.43688610</longitude>
+  </daira>
+  <daira id="296" id_state="22">
+    <arabic>مولاي سليسن</arabic>
+    <french>Moulay Slissen</french>
+    <latitude>34.77920510</latitude>
+    <longitude>-0.79074430</longitude>
+  </daira>
+  <daira id="297" id_state="22">
+    <arabic>مرين</arabic>
+    <french>Merine</french>
+    <latitude>34.67029000</latitude>
+    <longitude>-0.31862430</longitude>
+  </daira>
+  <daira id="298" id_state="22">
+    <arabic>راس الماء</arabic>
+    <french>Ras El Ma</french>
+    <latitude>34.44477880</latitude>
+    <longitude>-0.76456860</longitude>
+  </daira>
+  <daira id="299" id_state="22">
+    <arabic>عين البرد</arabic>
+    <french>Ain El Berd</french>
+    <latitude>35.34414950</latitude>
+    <longitude>-0.50792790</longitude>
+  </daira>
+  <daira id="300" id_state="22">
+    <arabic>سفيزف</arabic>
+    <french>Sfisef</french>
+    <latitude>35.23588790</latitude>
+    <longitude>-0.26447700</longitude>
+  </daira>
+  <daira id="301" id_state="22">
+    <arabic>بن باديس</arabic>
+    <french>Ben Badis</french>
+    <latitude>34.96952910</latitude>
+    <longitude>-0.87243130</longitude>
+  </daira>
+  <daira id="302" id_state="22">
+    <arabic>سيدي علي بن يوب</arabic>
+    <french>Sidi Ali Ben Youb</french>
+    <latitude>34.99768990</latitude>
+    <longitude>-0.71662990</longitude>
+  </daira>
+  <daira id="303" id_state="23">
+    <arabic>عنابة</arabic>
+    <french>Annaba</french>
+    <latitude>36.93887570</latitude>
+    <longitude>7.66383550</longitude>
+  </daira>
+  <daira id="304" id_state="23">
+    <arabic>برحال</arabic>
+    <french>Berrahal</french>
+    <latitude>36.89302550</latitude>
+    <longitude>7.47905020</longitude>
+  </daira>
+  <daira id="305" id_state="23">
+    <arabic>الحجار</arabic>
+    <french>El Hadjar</french>
+    <latitude>34.59339550</latitude>
+    <longitude>0.17261770</longitude>
+  </daira>
+  <daira id="306" id_state="23">
+    <arabic>البوني</arabic>
+    <french>El Bouni</french>
+    <latitude>36.84090390</latitude>
+    <longitude>7.74743070</longitude>
+  </daira>
+  <daira id="307" id_state="23">
+    <arabic>عين الباردة</arabic>
+    <french>Ain El Berda</french>
+    <latitude>36.69736850</latitude>
+    <longitude>7.51728700</longitude>
+  </daira>
+  <daira id="308" id_state="23">
+    <arabic>شطايبي</arabic>
+    <french>Chetaibi</french>
+    <latitude>37.01193950</latitude>
+    <longitude>7.40258790</longitude>
+  </daira>
+  <daira id="309" id_state="24">
+    <arabic>قالمة</arabic>
+    <french>Guelma</french>
+    <latitude>36.41726530</latitude>
+    <longitude>7.37347670</longitude>
+  </daira>
+  <daira id="310" id_state="24">
+    <arabic>وادي الزناتي</arabic>
+    <french>Oued Zenati</french>
+    <latitude>36.34261060</latitude>
+    <longitude>7.09716780</longitude>
+  </daira>
+  <daira id="311" id_state="24">
+    <arabic>عين مخلوف</arabic>
+    <french>Ain Makhlouf</french>
+    <latitude>36.19229550</latitude>
+    <longitude>7.16121390</longitude>
+  </daira>
+  <daira id="312" id_state="24">
+    <arabic>خزارة</arabic>
+    <french>Khezaras</french>
+    <latitude>36.36812950</latitude>
+    <longitude>7.52787290</longitude>
+  </daira>
+  <daira id="313" id_state="24">
+    <arabic>قلعة بوصبع</arabic>
+    <french>Guelaat Bousbaa</french>
+    <latitude>36.51380380</latitude>
+    <longitude>7.55212460</longitude>
+  </daira>
+  <daira id="314" id_state="24">
+    <arabic>حمام دباغ</arabic>
+    <french>Hammam Debagh</french>
+    <latitude>36.53230450</latitude>
+    <longitude>7.18804660</longitude>
+  </daira>
+  <daira id="315" id_state="24">
+    <arabic>حمام النبايل</arabic>
+    <french>Hammam N'bails</french>
+    <latitude>36.32258630</latitude>
+    <longitude>7.71655130</longitude>
+  </daira>
+  <daira id="316" id_state="24">
+    <arabic>بوشقوف</arabic>
+    <french>Bouchegouf</french>
+    <latitude>36.52626610</latitude>
+    <longitude>7.79649950</longitude>
+  </daira>
+  <daira id="317" id_state="24">
+    <arabic>هيليوبوليس</arabic>
+    <french>Heliopolis</french>
+    <latitude>36.56671450</latitude>
+    <longitude>7.36587870</longitude>
+  </daira>
+  <daira id="318" id_state="24">
+    <arabic>هواري بومدين</arabic>
+    <french>Houari Boumédiène</french>
+    <latitude>36.40809450</latitude>
+    <longitude>7.24956860</longitude>
+  </daira>
+  <daira id="319" id_state="25">
+    <arabic>قسنطينة</arabic>
+    <french>Constantine</french>
+    <latitude>36.35398640</latitude>
+    <longitude>6.60511270</longitude>
+  </daira>
+  <daira id="320" id_state="25">
+    <arabic>حامة بوزيان</arabic>
+    <french>Hamma Bouziane</french>
+    <latitude>36.44655100</latitude>
+    <longitude>6.62154400</longitude>
+  </daira>
+  <daira id="321" id_state="25">
+    <arabic>زيغود يوسف</arabic>
+    <french>Zighoud Youcef</french>
+    <latitude>36.52903450</latitude>
+    <longitude>6.66969300</longitude>
+  </daira>
+  <daira id="322" id_state="25">
+    <arabic>الخروب</arabic>
+    <french>El Khroub</french>
+    <latitude>36.25468250</latitude>
+    <longitude>6.61154350</longitude>
+  </daira>
+  <daira id="323" id_state="25">
+    <arabic>عين عبيد</arabic>
+    <french>Ain Abid</french>
+    <latitude>36.29564360</latitude>
+    <longitude>6.90480840</longitude>
+  </daira>
+  <daira id="324" id_state="25">
+    <arabic>ابن زياد</arabic>
+    <french>Ibn Ziad</french>
+    <latitude>36.40470750</latitude>
+    <longitude>6.43961570</longitude>
+  </daira>
+  <daira id="325" id_state="26">
+    <arabic>المدية</arabic>
+    <french>Medea</french>
+    <latitude>36.30036970</latitude>
+    <longitude>2.70141080</longitude>
+  </daira>
+  <daira id="326" id_state="26">
+    <arabic>وزرة</arabic>
+    <french>Ouzera</french>
+    <latitude>36.27521090</latitude>
+    <longitude>2.88657500</longitude>
+  </daira>
+  <daira id="327" id_state="26">
+    <arabic>عين بوسيف</arabic>
+    <french>Ain Boucif</french>
+    <latitude>35.82693550</latitude>
+    <longitude>3.18602700</longitude>
+  </daira>
+  <daira id="328" id_state="26">
+    <arabic>العمارية</arabic>
+    <french>El Omaria</french>
+    <latitude>36.30629320</latitude>
+    <longitude>3.00868890</longitude>
+  </daira>
+  <daira id="329" id_state="26">
+    <arabic>القلب الكبير</arabic>
+    <french>Guelb El Kebir</french>
+    <latitude>36.23599960</latitude>
+    <longitude>3.46719850</longitude>
+  </daira>
+  <daira id="330" id_state="26">
+    <arabic>شلالة العذاورة</arabic>
+    <french>Chellalat El Adhaoura</french>
+    <latitude>35.84813550</latitude>
+    <longitude>3.48045450</longitude>
+  </daira>
+  <daira id="331" id_state="26">
+    <arabic>سيدي نعمان</arabic>
+    <french>Sidi Naamane</french>
+    <latitude>36.22473170</latitude>
+    <longitude>3.10486700</longitude>
+  </daira>
+  <daira id="332" id_state="26">
+    <arabic>عزيز</arabic>
+    <french>Aziz</french>
+    <latitude>35.76920650</latitude>
+    <longitude>2.46796140</longitude>
+  </daira>
+  <daira id="333" id_state="26">
+    <arabic>السواقي</arabic>
+    <french>Souaghi</french>
+    <latitude>36.06951550</latitude>
+    <longitude>3.30862620</longitude>
+  </daira>
+  <daira id="334" id_state="26">
+    <arabic>قصر البخاري</arabic>
+    <french>Ksar El Boukhari</french>
+    <latitude>35.87746480</latitude>
+    <longitude>2.84605910</longitude>
+  </daira>
+  <daira id="335" id_state="26">
+    <arabic>العزيزية</arabic>
+    <french>El Azizia</french>
+    <latitude>36.36701310</latitude>
+    <longitude>3.47517840</longitude>
+  </daira>
+  <daira id="336" id_state="26">
+    <arabic>الشهبونية</arabic>
+    <french>Chahbounia</french>
+    <latitude>35.63735050</latitude>
+    <longitude>2.71809200</longitude>
+  </daira>
+  <daira id="337" id_state="26">
+    <arabic>عوامري</arabic>
+    <french>Ouamri</french>
+    <latitude>36.21967100</latitude>
+    <longitude>2.60792960</longitude>
+  </daira>
+  <daira id="338" id_state="26">
+    <arabic>سي المحجوب</arabic>
+    <french>Si Mahdjoub</french>
+    <latitude>36.13243660</latitude>
+    <longitude>2.69715210</longitude>
+  </daira>
+  <daira id="339" id_state="26">
+    <arabic>بني سليمان</arabic>
+    <french>Beni Slimane</french>
+    <latitude>36.22087710</latitude>
+    <longitude>3.26632930</longitude>
+  </daira>
+  <daira id="340" id_state="26">
+    <arabic>البرواقية</arabic>
+    <french>Berrouaghia</french>
+    <latitude>36.08348160</latitude>
+    <longitude>3.06826530</longitude>
+  </daira>
+  <daira id="341" id_state="26">
+    <arabic>سغوان</arabic>
+    <french>Seghouane</french>
+    <latitude>36.02693020</latitude>
+    <longitude>2.90518980</longitude>
+  </daira>
+  <daira id="342" id_state="26">
+    <arabic>تابلاط</arabic>
+    <french>Tablat</french>
+    <latitude>36.40322950</latitude>
+    <longitude>3.28826220</longitude>
+  </daira>
+  <daira id="343" id_state="26">
+    <arabic>أولاد عنتر</arabic>
+    <french>Ouled Antar</french>
+    <latitude>35.97224840</latitude>
+    <longitude>2.60954880</longitude>
+  </daira>
+  <daira id="344" id_state="27">
+    <arabic>مستغانم</arabic>
+    <french>Mostaganem</french>
+    <latitude>35.97464180</latitude>
+    <longitude>0.10827080</longitude>
+  </daira>
+  <daira id="345" id_state="27">
+    <arabic>عين نويسي</arabic>
+    <french>Ain Nouicy</french>
+    <latitude>35.75930330</latitude>
+    <longitude>0.01982390</longitude>
+  </daira>
+  <daira id="346" id_state="27">
+    <arabic>حاسي ماماش</arabic>
+    <french>Hassi Mameche</french>
+    <latitude>35.84536500</latitude>
+    <longitude>0.06581570</longitude>
+  </daira>
+  <daira id="347" id_state="27">
+    <arabic>عين تادلس</arabic>
+    <french>Ain Tedeles</french>
+    <latitude>35.98086080</latitude>
+    <longitude>0.34231110</longitude>
+  </daira>
+  <daira id="348" id_state="27">
+    <arabic>خير الدين</arabic>
+    <french>Kheir Eddine</french>
+    <latitude>35.95271100</latitude>
+    <longitude>0.15723380</longitude>
+  </daira>
+  <daira id="349" id_state="27">
+    <arabic>سيدي علي</arabic>
+    <french>Sidi Ali</french>
+    <latitude>36.09359180</latitude>
+    <longitude>0.41898050</longitude>
+  </daira>
+  <daira id="350" id_state="27">
+    <arabic>سيدي لخضر</arabic>
+    <french>Sidi Lakhdar</french>
+    <latitude>36.13188870</latitude>
+    <longitude>0.32328780</longitude>
+  </daira>
+  <daira id="351" id_state="27">
+    <arabic>عشعاشة</arabic>
+    <french>Achaacha</french>
+    <latitude>36.23260830</latitude>
+    <longitude>0.59453390</longitude>
+  </daira>
+  <daira id="352" id_state="27">
+    <arabic>بوقيراط</arabic>
+    <french>Bouguirat</french>
+    <latitude>35.80144650</latitude>
+    <longitude>0.29252610</longitude>
+  </daira>
+  <daira id="353" id_state="27">
+    <arabic>ماسرة</arabic>
+    <french>Mesra</french>
+    <latitude>35.84387730</latitude>
+    <longitude>0.20344980</longitude>
+  </daira>
+  <daira id="354" id_state="28">
+    <arabic>المسيلة</arabic>
+    <french>M'sila</french>
+    <latitude>35.72261390</latitude>
+    <longitude>4.50622000</longitude>
+  </daira>
+  <daira id="355" id_state="28">
+    <arabic>حمام الضلعة</arabic>
+    <french>Hammam Dalaa</french>
+    <latitude>35.83974990</latitude>
+    <longitude>4.28180230</longitude>
+  </daira>
+  <daira id="356" id_state="28">
+    <arabic>أولاد دراج</arabic>
+    <french>Ouled Derradj</french>
+    <latitude>35.62166530</latitude>
+    <longitude>4.74008510</longitude>
+  </daira>
+  <daira id="357" id_state="28">
+    <arabic>خبانة</arabic>
+    <french>Khoubana</french>
+    <latitude>35.25220510</latitude>
+    <longitude>4.57485210</longitude>
+  </daira>
+  <daira id="358" id_state="28">
+    <arabic>شلال</arabic>
+    <french>Chellal</french>
+    <latitude>35.55557770</latitude>
+    <longitude>4.41308810</longitude>
+  </daira>
+  <daira id="359" id_state="28">
+    <arabic>مقرة</arabic>
+    <french>Magra</french>
+    <latitude>35.62722670</latitude>
+    <longitude>5.13807620</longitude>
+  </daira>
+  <daira id="360" id_state="28">
+    <arabic>سيدي عيسى</arabic>
+    <french>Sidi Aissa</french>
+    <latitude>35.72674460</latitude>
+    <longitude>3.69906870</longitude>
+  </daira>
+  <daira id="361" id_state="28">
+    <arabic>عين الحجل</arabic>
+    <french>Ain El Hadjel</french>
+    <latitude>35.70044630</latitude>
+    <longitude>4.00019180</longitude>
+  </daira>
+  <daira id="362" id_state="28">
+    <arabic>بوسعادة</arabic>
+    <french>Bousaada</french>
+    <latitude>35.18990410</latitude>
+    <longitude>4.16692750</longitude>
+  </daira>
+  <daira id="363" id_state="28">
+    <arabic>أولاد سيدي ابراهيم</arabic>
+    <french>Ouled Sidi Brahim</french>
+    <latitude>35.43076100</latitude>
+    <longitude>4.09370830</longitude>
+  </daira>
+  <daira id="364" id_state="28">
+    <arabic>سيدي عامر</arabic>
+    <french>Sidi Ameur</french>
+    <latitude>35.29752850</latitude>
+    <longitude>3.86627100</longitude>
+  </daira>
+  <daira id="365" id_state="28">
+    <arabic>بن سرور</arabic>
+    <french>Ben Srour</french>
+    <latitude>34.96295950</latitude>
+    <longitude>4.64496410</longitude>
+  </daira>
+  <daira id="366" id_state="28">
+    <arabic>عين الملح</arabic>
+    <french>Ain El Melh</french>
+    <latitude>34.57167480</latitude>
+    <longitude>4.06119570</longitude>
+  </daira>
+  <daira id="367" id_state="28">
+    <arabic>امجدل</arabic>
+    <french>Medjedel</french>
+    <latitude>35.08742510</latitude>
+    <longitude>3.68921530</longitude>
+  </daira>
+  <daira id="368" id_state="28">
+    <arabic>جبل مساعد</arabic>
+    <french>Djebel Messaad</french>
+    <latitude>34.96540470</latitude>
+    <longitude>4.05351200</longitude>
+  </daira>
+  <daira id="369" id_state="29">
+    <arabic>معسكر</arabic>
+    <french>Mascara</french>
+    <latitude>35.38282130</latitude>
+    <longitude>0.15350050</longitude>
+  </daira>
+  <daira id="370" id_state="29">
+    <arabic>بوحنيفية</arabic>
+    <french>Bouhanifia</french>
+    <latitude>35.37667310</latitude>
+    <longitude>-0.08089190</longitude>
+  </daira>
+  <daira id="371" id_state="29">
+    <arabic>تيزي</arabic>
+    <french>Tizi</french>
+    <latitude>35.31158590</latitude>
+    <longitude>0.07423780</longitude>
+  </daira>
+  <daira id="372" id_state="29">
+    <arabic>تيغنيف</arabic>
+    <french>Tighennif</french>
+    <latitude>35.39223790</latitude>
+    <longitude>0.34166700</longitude>
+  </daira>
+  <daira id="373" id_state="29">
+    <arabic>الحشم</arabic>
+    <french>Hachem</french>
+    <latitude>35.30468870</latitude>
+    <longitude>0.52569240</longitude>
+  </daira>
+  <daira id="374" id_state="29">
+    <arabic>وادي الأبطال</arabic>
+    <french>Oued El Abtal</french>
+    <latitude>35.39926810</latitude>
+    <longitude>0.78639220</longitude>
+  </daira>
+  <daira id="375" id_state="29">
+    <arabic>غريس</arabic>
+    <french>Ghriss</french>
+    <latitude>35.28585960</latitude>
+    <longitude>0.24743240</longitude>
+  </daira>
+  <daira id="376" id_state="29">
+    <arabic>البرج</arabic>
+    <french>El Bordj</french>
+    <latitude>35.49817970</latitude>
+    <longitude>0.33446890</longitude>
+  </daira>
+  <daira id="377" id_state="29">
+    <arabic>عين فكان</arabic>
+    <french>Ain Fekan</french>
+    <latitude>35.17909200</latitude>
+    <longitude>-0.07296210</longitude>
+  </daira>
+  <daira id="378" id_state="29">
+    <arabic>وادي التاغية</arabic>
+    <french>Oued Taria</french>
+    <latitude>35.15396480</latitude>
+    <longitude>0.12931490</longitude>
+  </daira>
+  <daira id="379" id_state="29">
+    <arabic>عوف</arabic>
+    <french>Aouf</french>
+    <latitude>35.11180640</latitude>
+    <longitude>0.33953490</longitude>
+  </daira>
+  <daira id="380" id_state="29">
+    <arabic>عين فارس</arabic>
+    <french>Ain Fares</french>
+    <latitude>35.47470890</latitude>
+    <longitude>0.19661720</longitude>
+  </daira>
+  <daira id="381" id_state="29">
+    <arabic>سيق</arabic>
+    <french>Sig</french>
+    <latitude>35.48092000</latitude>
+    <longitude>-0.16228100</longitude>
+  </daira>
+  <daira id="382" id_state="29">
+    <arabic>عقاز</arabic>
+    <french>Oggaz</french>
+    <latitude>35.61676130</latitude>
+    <longitude>-0.24504170</longitude>
+  </daira>
+  <daira id="383" id_state="29">
+    <arabic>زهانة</arabic>
+    <french>Zahana</french>
+    <latitude>35.46641550</latitude>
+    <longitude>-0.37028660</longitude>
+  </daira>
+  <daira id="384" id_state="29">
+    <arabic>المحمدية</arabic>
+    <french>Mohammadia</french>
+    <latitude>35.64153850</latitude>
+    <longitude>0.06158560</longitude>
+  </daira>
+  <daira id="385" id_state="30">
+    <arabic>ورقلة</arabic>
+    <french>Ouargla</french>
+    <latitude>31.75880750</latitude>
+    <longitude>4.88670050</longitude>
+  </daira>
+  <daira id="386" id_state="30">
+    <arabic>انقوسة</arabic>
+    <french>N'goussa</french>
+    <latitude>32.34338990</latitude>
+    <longitude>5.34040480</longitude>
+  </daira>
+  <daira id="387" id_state="30">
+    <arabic>حاسي مسعود</arabic>
+    <french>Hassi Messaoud</french>
+    <latitude>30.55884730</latitude>
+    <longitude>5.45309120</longitude>
+  </daira>
+  <daira id="388" id_state="30">
+    <arabic>سيدي خويلد</arabic>
+    <french>Sidi Khouiled</french>
+    <latitude>31.98074620</latitude>
+    <longitude>5.68227980</longitude>
+  </daira>
+  <daira id="389" id_state="55">
+    <arabic>تقرت</arabic>
+    <french>Touggourt</french>
+    <latitude>33.10359540</latitude>
+    <longitude>5.95371760</longitude>
+  </daira>
+  <daira id="390" id_state="30">
+    <arabic>الحجيرة</arabic>
+    <french>El-Hadjira</french>
+    <latitude>32.94852900</latitude>
+    <longitude>5.46401470</longitude>
+  </daira>
+  <daira id="391" id_state="55">
+    <arabic>الطيبات</arabic>
+    <french>Taibet</french>
+    <latitude>32.98542020</latitude>
+    <longitude>6.39222890</longitude>
+  </daira>
+  <daira id="392" id_state="55">
+    <arabic>تماسين</arabic>
+    <french>Temacine</french>
+    <latitude>32.95250890</latitude>
+    <longitude>6.07852010</longitude>
+  </daira>
+  <daira id="393" id_state="55">
+    <arabic>المقارين</arabic>
+    <french>Megarine</french>
+    <latitude>33.29182360</latitude>
+    <longitude>5.94858650</longitude>
+  </daira>
+  <daira id="394" id_state="30">
+    <arabic>البرمة</arabic>
+    <french>El Borma</french>
+    <latitude>31.17702250</latitude>
+    <longitude>7.99511190</longitude>
+  </daira>
+  <daira id="395" id_state="55">
+    <arabic>تقرت (ولاية منتدبة)</arabic>
+    <french>Touggourt (Wilaya Déléguée) </french>
+    <latitude>33.10359540</latitude>
+    <longitude>5.95371760</longitude>
+  </daira>
+  <daira id="396" id_state="31">
+    <arabic>وهران</arabic>
+    <french>Oran</french>
+    <latitude>35.70740270</latitude>
+    <longitude>-0.63371450</longitude>
+  </daira>
+  <daira id="397" id_state="31">
+    <arabic>قديل</arabic>
+    <french>Gdyel</french>
+    <latitude>35.77436010</latitude>
+    <longitude>-0.42282910</longitude>
+  </daira>
+  <daira id="398" id_state="31">
+    <arabic>بئر الجير</arabic>
+    <french>Bir El Djir</french>
+    <latitude>35.72557790</latitude>
+    <longitude>-0.51731090</longitude>
+  </daira>
+  <daira id="399" id_state="31">
+    <arabic>السانية</arabic>
+    <french>Es Senia</french>
+    <latitude>35.61060680</latitude>
+    <longitude>-0.61451130</longitude>
+  </daira>
+  <daira id="400" id_state="31">
+    <arabic>أرزيو</arabic>
+    <french>Arzew</french>
+    <latitude>35.85405490</latitude>
+    <longitude>-0.38183300</longitude>
+  </daira>
+  <daira id="401" id_state="31">
+    <arabic>بطيوة</arabic>
+    <french>Bethioua</french>
+    <latitude>35.74280100</latitude>
+    <longitude>-0.22450850</longitude>
+  </daira>
+  <daira id="402" id_state="31">
+    <arabic>عين الترك</arabic>
+    <french>Ain Turk</french>
+    <latitude>35.70199670</latitude>
+    <longitude>-0.85540400</longitude>
+  </daira>
+  <daira id="403" id_state="31">
+    <arabic>وادي تليلات</arabic>
+    <french>Oued Tlelat</french>
+    <latitude>35.52233100</latitude>
+    <longitude>-0.53726200</longitude>
+  </daira>
+  <daira id="404" id_state="31">
+    <arabic>بوتليليس</arabic>
+    <french>Boutlelis</french>
+    <latitude>35.57461520</latitude>
+    <longitude>-0.79721540</longitude>
+  </daira>
+  <daira id="405" id_state="32">
+    <arabic>البيض</arabic>
+    <french>El Bayadh</french>
+    <latitude>33.63785230</latitude>
+    <longitude>1.01220390</longitude>
+  </daira>
+  <daira id="406" id_state="32">
+    <arabic>رقاصة</arabic>
+    <french>Rogassa</french>
+    <latitude>34.02203150</latitude>
+    <longitude>0.88460630</longitude>
+  </daira>
+  <daira id="407" id_state="32">
+    <arabic>بريزينة</arabic>
+    <french>Brezina</french>
+    <latitude>32.67201050</latitude>
+    <longitude>1.71744190</longitude>
+  </daira>
+  <daira id="408" id_state="32">
+    <arabic>بوعلام</arabic>
+    <french>Boualem</french>
+    <latitude>33.65149700</latitude>
+    <longitude>1.49698760</longitude>
+  </daira>
+  <daira id="409" id_state="32">
+    <arabic>الأبيض سيدي الشيخ</arabic>
+    <french>Labiodh Sidi Cheikh</french>
+    <latitude>32.13640550</latitude>
+    <longitude>0.66433160</longitude>
+  </daira>
+  <daira id="410" id_state="32">
+    <arabic>بوقطب</arabic>
+    <french>Bougtob</french>
+    <latitude>33.97063670</latitude>
+    <longitude>0.27927880</longitude>
+  </daira>
+  <daira id="411" id_state="32">
+    <arabic>بوسمغون</arabic>
+    <french>Boussemghoun</french>
+    <latitude>32.80818690</latitude>
+    <longitude>0.06358020</longitude>
+  </daira>
+  <daira id="412" id_state="32">
+    <arabic>شلالة</arabic>
+    <french>Chellala</french>
+    <latitude>33.00875950</latitude>
+    <longitude>0.08940280</longitude>
+  </daira>
+  <daira id="413" id_state="33">
+    <arabic>إيليزي</arabic>
+    <french>Illizi</french>
+    <latitude>26.48808350</latitude>
+    <longitude>8.35714920</longitude>
+  </daira>
+  <daira id="414" id_state="56">
+    <arabic>جانت</arabic>
+    <french>Djanet</french>
+    <latitude>24.07152100</latitude>
+    <longitude>9.61558470</longitude>
+  </daira>
+  <daira id="415" id_state="33">
+    <arabic>إن أمناس</arabic>
+    <french>In Amenas</french>
+    <latitude>28.41146850</latitude>
+    <longitude>7.78652550</longitude>
+  </daira>
+  <daira id="416" id_state="56">
+    <arabic>جانت (ولاية منتدبة)</arabic>
+    <french>Djanet (Wilaya Déléguée) </french>
+    <latitude>24.07152100</latitude>
+    <longitude>9.61558470</longitude>
+  </daira>
+  <daira id="417" id_state="34">
+    <arabic>برج بوعريريج</arabic>
+    <french>Bordj Bou Arreridj</french>
+    <latitude>36.06776030</latitude>
+    <longitude>4.74532890</longitude>
+  </daira>
+  <daira id="418" id_state="34">
+    <arabic>رأس الوادي</arabic>
+    <french>Ras El Oued</french>
+    <latitude>35.97033620</latitude>
+    <longitude>5.02451310</longitude>
+  </daira>
+  <daira id="419" id_state="34">
+    <arabic>برج زمورة</arabic>
+    <french>Bordj Zemmoura</french>
+    <latitude>36.25449360</latitude>
+    <longitude>4.84661470</longitude>
+  </daira>
+  <daira id="420" id_state="34">
+    <arabic>المنصورة</arabic>
+    <french>Mansourah</french>
+    <latitude>36.07648680</latitude>
+    <longitude>4.46426290</longitude>
+  </daira>
+  <daira id="421" id_state="34">
+    <arabic>عين تاغروت</arabic>
+    <french>Ain Taghrout</french>
+    <latitude>36.09410290</latitude>
+    <longitude>5.11377530</longitude>
+  </daira>
+  <daira id="422" id_state="34">
+    <arabic>برج الغدير</arabic>
+    <french>Bordj Ghedir</french>
+    <latitude>35.91944990</latitude>
+    <longitude>4.91848050</longitude>
+  </daira>
+  <daira id="423" id_state="34">
+    <arabic>الحمادية</arabic>
+    <french>El Hamadia</french>
+    <latitude>35.92233410</latitude>
+    <longitude>4.69343490</longitude>
+  </daira>
+  <daira id="424" id_state="34">
+    <arabic>مجانة</arabic>
+    <french>Medjana</french>
+    <latitude>36.13749010</latitude>
+    <longitude>4.70605430</longitude>
+  </daira>
+  <daira id="425" id_state="34">
+    <arabic>جعافرة</arabic>
+    <french>Djaafra</french>
+    <latitude>36.31666510</latitude>
+    <longitude>4.68055240</longitude>
+  </daira>
+  <daira id="426" id_state="34">
+    <arabic>بئر قاصد علي</arabic>
+    <french>Bir Kasdali</french>
+    <latitude>36.17657500</latitude>
+    <longitude>4.99032140</longitude>
+  </daira>
+  <daira id="427" id_state="35">
+    <arabic>بومرداس</arabic>
+    <french>Boumerdes</french>
+    <latitude>36.72557620</latitude>
+    <longitude>3.47389090</longitude>
+  </daira>
+  <daira id="428" id_state="35">
+    <arabic>بودواو</arabic>
+    <french>Boudouaou</french>
+    <latitude>36.66505400</latitude>
+    <longitude>3.44620600</longitude>
+  </daira>
+  <daira id="429" id_state="35">
+    <arabic>برج منايل</arabic>
+    <french>Bordj Menaiel</french>
+    <latitude>36.78811310</latitude>
+    <longitude>3.67251050</longitude>
+  </daira>
+  <daira id="430" id_state="35">
+    <arabic>بغلية</arabic>
+    <french>Baghlia</french>
+    <latitude>36.83179930</latitude>
+    <longitude>3.87443180</longitude>
+  </daira>
+  <daira id="431" id_state="35">
+    <arabic>الناصرية</arabic>
+    <french>Naciria</french>
+    <latitude>36.75549400</latitude>
+    <longitude>3.81801220</longitude>
+  </daira>
+  <daira id="432" id_state="35">
+    <arabic>يسر</arabic>
+    <french>Isser</french>
+    <latitude>36.67055370</latitude>
+    <longitude>3.73342010</longitude>
+  </daira>
+  <daira id="433" id_state="35">
+    <arabic>الثنية</arabic>
+    <french>Thenia</french>
+    <latitude>36.68812000</latitude>
+    <longitude>3.57771670</longitude>
+  </daira>
+  <daira id="434" id_state="35">
+    <arabic>دلس</arabic>
+    <french>Dellys</french>
+    <latitude>36.86567500</latitude>
+    <longitude>3.95310680</longitude>
+  </daira>
+  <daira id="435" id_state="35">
+    <arabic>خميس الخشنة</arabic>
+    <french>Khemis El Khechna</french>
+    <latitude>36.63496520</latitude>
+    <longitude>3.34235540</longitude>
+  </daira>
+  <daira id="436" id_state="36">
+    <arabic>الطارف</arabic>
+    <french>El Tarf</french>
+    <latitude>36.69552060</latitude>
+    <longitude>8.34075780</longitude>
+  </daira>
+  <daira id="437" id_state="36">
+    <arabic>بوحجار</arabic>
+    <french>Bouhadjar</french>
+    <latitude>36.50945120</latitude>
+    <longitude>8.05868670</longitude>
+  </daira>
+  <daira id="438" id_state="36">
+    <arabic>بن مهيدي</arabic>
+    <french>Ben M'hidi</french>
+    <latitude>36.80150600</latitude>
+    <longitude>7.92474310</longitude>
+  </daira>
+  <daira id="439" id_state="36">
+    <arabic>القالة</arabic>
+    <french>El Kala</french>
+    <latitude>36.86246750</latitude>
+    <longitude>8.43419630</longitude>
+  </daira>
+  <daira id="440" id_state="36">
+    <arabic>بوثلجة</arabic>
+    <french>Bouteldja</french>
+    <latitude>36.71857200</latitude>
+    <longitude>8.12729820</longitude>
+  </daira>
+  <daira id="441" id_state="36">
+    <arabic>الذرعان</arabic>
+    <french>Drean</french>
+    <latitude>36.65521100</latitude>
+    <longitude>7.82184870</longitude>
+  </daira>
+  <daira id="442" id_state="36">
+    <arabic>البسباس</arabic>
+    <french>Besbes</french>
+    <latitude>36.67651650</latitude>
+    <longitude>7.97110080</longitude>
+  </daira>
+  <daira id="443" id_state="37">
+    <arabic>تندوف</arabic>
+    <french>Tindouf</french>
+    <latitude>27.54390700</latitude>
+    <longitude>-6.23992510</longitude>
+  </daira>
+  <daira id="444" id_state="38">
+    <arabic>تيسمسيلت</arabic>
+    <french>Tissemsilt</french>
+    <latitude>35.64742890</latitude>
+    <longitude>1.83002350</longitude>
+  </daira>
+  <daira id="445" id_state="38">
+    <arabic>برج بونعامة</arabic>
+    <french>Bordj Bounaama</french>
+    <latitude>35.82446380</latitude>
+    <longitude>1.72802840</longitude>
+  </daira>
+  <daira id="446" id_state="38">
+    <arabic>ثنية الاحد</arabic>
+    <french>Theniet El Had</french>
+    <latitude>35.84701980</latitude>
+    <longitude>1.96706120</longitude>
+  </daira>
+  <daira id="447" id_state="38">
+    <arabic>الأزهرية</arabic>
+    <french>Lazharia</french>
+    <latitude>35.95025350</latitude>
+    <longitude>1.56472870</longitude>
+  </daira>
+  <daira id="448" id_state="38">
+    <arabic>لرجام</arabic>
+    <french>Lardjem</french>
+    <latitude>35.76065900</latitude>
+    <longitude>1.45027980</longitude>
+  </daira>
+  <daira id="449" id_state="38">
+    <arabic>برج الأمير عبد القادر</arabic>
+    <french>Bordj Emir Abdelkader</french>
+    <latitude>35.84122850</latitude>
+    <longitude>2.21678710</longitude>
+  </daira>
+  <daira id="450" id_state="38">
+    <arabic>خميستي</arabic>
+    <french>Khemisti</french>
+    <latitude>35.67338740</latitude>
+    <longitude>2.01089960</longitude>
+  </daira>
+  <daira id="451" id_state="38">
+    <arabic>عماري</arabic>
+    <french>Ammari</french>
+    <latitude>35.66064520</latitude>
+    <longitude>1.64218270</longitude>
+  </daira>
+  <daira id="452" id_state="39">
+    <arabic>الوادي</arabic>
+    <french>El Oued</french>
+    <latitude>36.79708350</latitude>
+    <longitude>3.04450880</longitude>
+  </daira>
+  <daira id="453" id_state="39">
+    <arabic>الرباح</arabic>
+    <french>Robbah</french>
+    <latitude>32.99310210</latitude>
+    <longitude>7.10915160</longitude>
+  </daira>
+  <daira id="454" id_state="39">
+    <arabic>البياضة</arabic>
+    <french>Bayadha</french>
+    <latitude>33.31240530</latitude>
+    <longitude>6.89924120</longitude>
+  </daira>
+  <daira id="455" id_state="39">
+    <arabic>قمار</arabic>
+    <french>Guemar</french>
+    <latitude>33.70116490</latitude>
+    <longitude>6.74658260</longitude>
+  </daira>
+  <daira id="456" id_state="39">
+    <arabic>الرقيبة</arabic>
+    <french>Reguiba</french>
+    <latitude>33.95754650</latitude>
+    <longitude>6.36096360</longitude>
+  </daira>
+  <daira id="457" id_state="39">
+    <arabic>الدبيلة</arabic>
+    <french>Debila</french>
+    <latitude>33.48983090</latitude>
+    <longitude>6.91522540</longitude>
+  </daira>
+  <daira id="458" id_state="39">
+    <arabic>حاسي خليفة</arabic>
+    <french>Hassi Khalifa</french>
+    <latitude>33.59514940</latitude>
+    <longitude>7.09218890</longitude>
+  </daira>
+  <daira id="459" id_state="39">
+    <arabic>الطالب العربي</arabic>
+    <french>Taleb Larbi</french>
+    <latitude>33.17102800</latitude>
+    <longitude>7.60587700</longitude>
+  </daira>
+  <daira id="460" id_state="39">
+    <arabic>المقرن</arabic>
+    <french>Magrane</french>
+    <latitude>33.85169510</latitude>
+    <longitude>6.86293500</longitude>
+  </daira>
+  <daira id="461" id_state="39">
+    <arabic>اميه وانسة</arabic>
+    <french>Mih Ouensa</french>
+    <latitude>33.01305250</latitude>
+    <longitude>6.72035810</longitude>
+  </daira>
+  <daira id="462" id_state="57">
+    <arabic>المغير</arabic>
+    <french>El Meghaier</french>
+    <latitude>34.13409250</latitude>
+    <longitude>5.72481570</longitude>
+  </daira>
+  <daira id="463" id_state="57">
+    <arabic>جامعة</arabic>
+    <french>Djamaa</french>
+    <latitude>33.62462150</latitude>
+    <longitude>5.67455870</longitude>
+  </daira>
+  <daira id="464" id_state="57">
+    <arabic>المغير (ولاية منتدبة)</arabic>
+    <french>El Meghaier (Wilaya Déléguée) </french>
+    <latitude>34.13409250</latitude>
+    <longitude>5.72481570</longitude>
+  </daira>
+  <daira id="465" id_state="40">
+    <arabic>خنشلة</arabic>
+    <french>Khenchela</french>
+    <latitude>35.43622730</latitude>
+    <longitude>7.14000450</longitude>
+  </daira>
+  <daira id="466" id_state="40">
+    <arabic>قايس</arabic>
+    <french>Kais</french>
+    <latitude>35.51600290</latitude>
+    <longitude>6.88315380</longitude>
+  </daira>
+  <daira id="467" id_state="40">
+    <arabic>الحامة</arabic>
+    <french>El Hamma</french>
+    <latitude>35.35260660</latitude>
+    <longitude>7.00109640</longitude>
+  </daira>
+  <daira id="468" id_state="40">
+    <arabic>عين الطويلة</arabic>
+    <french>Ain Touila</french>
+    <latitude>35.50864050</latitude>
+    <longitude>7.37012570</longitude>
+  </daira>
+  <daira id="469" id_state="40">
+    <arabic>بوحمامة</arabic>
+    <french>Bouhmama</french>
+    <latitude>35.25905390</latitude>
+    <longitude>6.70453040</longitude>
+  </daira>
+  <daira id="470" id_state="40">
+    <arabic>ششار</arabic>
+    <french>Chechar</french>
+    <latitude>34.93660550</latitude>
+    <longitude>6.89300110</longitude>
+  </daira>
+  <daira id="471" id_state="40">
+    <arabic>بابار</arabic>
+    <french>Babar</french>
+    <latitude>34.76359560</latitude>
+    <longitude>7.28459890</longitude>
+  </daira>
+  <daira id="472" id_state="40">
+    <arabic>أولاد رشاش</arabic>
+    <french>Ouled Rechache</french>
+    <latitude>35.24452400</latitude>
+    <longitude>7.30419950</longitude>
+  </daira>
+  <daira id="473" id_state="41">
+    <arabic>سوق أهراس</arabic>
+    <french>Souk Ahras</french>
+    <latitude>36.28256650</latitude>
+    <longitude>7.96319700</longitude>
+  </daira>
+  <daira id="474" id_state="41">
+    <arabic>سدراتة</arabic>
+    <french>Sedrata</french>
+    <latitude>36.14672050</latitude>
+    <longitude>7.54665600</longitude>
+  </daira>
+  <daira id="475" id_state="41">
+    <arabic>المشروحة</arabic>
+    <french>Mechroha</french>
+    <latitude>36.33488650</latitude>
+    <longitude>7.90154940</longitude>
+  </daira>
+  <daira id="476" id_state="41">
+    <arabic>أولاد إدريس</arabic>
+    <french>Ouled Driss</french>
+    <latitude>36.37933720</latitude>
+    <longitude>8.12831460</longitude>
+  </daira>
+  <daira id="477" id_state="41">
+    <arabic>تاورة</arabic>
+    <french>Taoura</french>
+    <latitude>36.11496840</latitude>
+    <longitude>7.96289310</longitude>
+  </daira>
+  <daira id="478" id_state="41">
+    <arabic>الحدادة</arabic>
+    <french>Haddada</french>
+    <latitude>36.26651360</latitude>
+    <longitude>8.24948800</longitude>
+  </daira>
+  <daira id="479" id_state="41">
+    <arabic>المراهنة</arabic>
+    <french>Merahna</french>
+    <latitude>36.15412260</latitude>
+    <longitude>8.17107090</longitude>
+  </daira>
+  <daira id="480" id_state="41">
+    <arabic>بئر بوحوش</arabic>
+    <french>Bir Bouhouche</french>
+    <latitude>36.03291910</latitude>
+    <longitude>7.46910750</longitude>
+  </daira>
+  <daira id="481" id_state="41">
+    <arabic>مداوروش</arabic>
+    <french>M'daourouche</french>
+    <latitude>36.11496840</latitude>
+    <longitude>7.71965450</longitude>
+  </daira>
+  <daira id="482" id_state="41">
+    <arabic>أم العظايم</arabic>
+    <french>Oum El Adhaim</french>
+    <latitude>35.95021980</latitude>
+    <longitude>7.75174150</longitude>
+  </daira>
+  <daira id="483" id_state="42">
+    <arabic>تيبازة</arabic>
+    <french>Tipaza</french>
+    <latitude>36.59689830</latitude>
+    <longitude>2.39693640</longitude>
+  </daira>
+  <daira id="484" id_state="42">
+    <arabic>حجوط</arabic>
+    <french>Hadjout</french>
+    <latitude>36.48617100</latitude>
+    <longitude>2.39316560</longitude>
+  </daira>
+  <daira id="485" id_state="42">
+    <arabic>سيدي أعمر</arabic>
+    <french>Sidi Amar</french>
+    <latitude>36.51972910</latitude>
+    <longitude>2.23572140</longitude>
+  </daira>
+  <daira id="486" id_state="42">
+    <arabic>قوراية</arabic>
+    <french>Gouraya</french>
+    <latitude>36.49490560</latitude>
+    <longitude>1.93650750</longitude>
+  </daira>
+  <daira id="487" id_state="42">
+    <arabic>شرشال</arabic>
+    <french>Cherchell</french>
+    <latitude>36.52636230</latitude>
+    <longitude>2.12064880</longitude>
+  </daira>
+  <daira id="488" id_state="42">
+    <arabic>الداموس</arabic>
+    <french>Damous</french>
+    <latitude>36.46302030</latitude>
+    <longitude>1.72912550</longitude>
+  </daira>
+  <daira id="489" id_state="42">
+    <arabic>فوكة</arabic>
+    <french>Fouka</french>
+    <latitude>36.67049830</latitude>
+    <longitude>2.77446100</longitude>
+  </daira>
+  <daira id="490" id_state="42">
+    <arabic>بواسماعيل</arabic>
+    <french>Bou Ismail</french>
+    <latitude>36.61944580</latitude>
+    <longitude>2.67937070</longitude>
+  </daira>
+  <daira id="491" id_state="42">
+    <arabic>أحمر العين</arabic>
+    <french>Ahmar El Ain</french>
+    <latitude>36.49634540</latitude>
+    <longitude>2.52937450</longitude>
+  </daira>
+  <daira id="492" id_state="42">
+    <arabic>القليعة</arabic>
+    <french>Kolea</french>
+    <latitude>36.58680410</latitude>
+    <longitude>2.70596420</longitude>
+  </daira>
+  <daira id="493" id_state="43">
+    <arabic>ميلة</arabic>
+    <french>Mila</french>
+    <latitude>36.45194100</latitude>
+    <longitude>6.26233100</longitude>
+  </daira>
+  <daira id="494" id_state="43">
+    <arabic>فرجيوة</arabic>
+    <french>Ferdjioua</french>
+    <latitude>36.40473000</latitude>
+    <longitude>5.96274520</longitude>
+  </daira>
+  <daira id="495" id_state="43">
+    <arabic>شلغوم العيد</arabic>
+    <french>Chelghoum Laid</french>
+    <latitude>36.22168100</latitude>
+    <longitude>6.22959730</longitude>
+  </daira>
+  <daira id="496" id_state="43">
+    <arabic>التلاغمة</arabic>
+    <french>Teleghma</french>
+    <latitude>36.09395550</latitude>
+    <longitude>6.32210030</longitude>
+  </daira>
+  <daira id="497" id_state="43">
+    <arabic>تاجنانت</arabic>
+    <french>Tadjenanet</french>
+    <latitude>36.07513750</latitude>
+    <longitude>6.08711270</longitude>
+  </daira>
+  <daira id="498" id_state="43">
+    <arabic>وادي النجاء</arabic>
+    <french>Oued Endja</french>
+    <latitude>36.40925950</latitude>
+    <longitude>6.13139000</longitude>
+  </daira>
+  <daira id="499" id_state="43">
+    <arabic>بوحاتم</arabic>
+    <french>Bouhatem</french>
+    <latitude>36.30802200</latitude>
+    <longitude>5.98291810</longitude>
+  </daira>
+  <daira id="500" id_state="43">
+    <arabic>الرواشد</arabic>
+    <french>Rouached</french>
+    <latitude>36.43973700</latitude>
+    <longitude>6.02496270</longitude>
+  </daira>
+  <daira id="501" id_state="43">
+    <arabic>القرارم قوقة</arabic>
+    <french>Grarem Gouga</french>
+    <latitude>36.55555850</latitude>
+    <longitude>6.38737700</longitude>
+  </daira>
+  <daira id="502" id_state="43">
+    <arabic>سيدي مروان</arabic>
+    <french>Sidi Merouane</french>
+    <latitude>36.54980250</latitude>
+    <longitude>6.23486680</longitude>
+  </daira>
+  <daira id="503" id_state="43">
+    <arabic>تسدان حدادة</arabic>
+    <french>Tassadane Haddada</french>
+    <latitude>36.51500720</latitude>
+    <longitude>5.84591820</longitude>
+  </daira>
+  <daira id="504" id_state="43">
+    <arabic>ترعي باينان</arabic>
+    <french>Terrai Bainen</french>
+    <latitude>36.55289400</latitude>
+    <longitude>6.08425740</longitude>
+  </daira>
+  <daira id="505" id_state="43">
+    <arabic>عين البيضاء أحريش</arabic>
+    <french>Ain Beida Harriche</french>
+    <latitude>36.41435700</latitude>
+    <longitude>5.85176600</longitude>
+  </daira>
+  <daira id="506" id_state="44">
+    <arabic>عين الدفلى</arabic>
+    <french>Ain Defla</french>
+    <latitude>36.25393070</latitude>
+    <longitude>1.95358790</longitude>
+  </daira>
+  <daira id="507" id_state="44">
+    <arabic>مليانة</arabic>
+    <french>Miliana</french>
+    <latitude>36.35033530</latitude>
+    <longitude>2.17026790</longitude>
+  </daira>
+  <daira id="508" id_state="44">
+    <arabic>بومدفع</arabic>
+    <french>Boumedfaa</french>
+    <latitude>36.33886960</latitude>
+    <longitude>2.51704470</longitude>
+  </daira>
+  <daira id="509" id_state="44">
+    <arabic>خميس</arabic>
+    <french>Khemis</french>
+    <latitude>36.25747930</latitude>
+    <longitude>2.18386570</longitude>
+  </daira>
+  <daira id="510" id_state="44">
+    <arabic>حمام ريغة</arabic>
+    <french>Hammam Righa</french>
+    <latitude>36.34845730</latitude>
+    <longitude>2.32725510</longitude>
+  </daira>
+  <daira id="511" id_state="44">
+    <arabic>جليدة</arabic>
+    <french>Djelida</french>
+    <latitude>36.12213220</latitude>
+    <longitude>2.00997990</longitude>
+  </daira>
+  <daira id="512" id_state="44">
+    <arabic>العامرة</arabic>
+    <french>El Amra</french>
+    <latitude>36.34637090</latitude>
+    <longitude>1.94304690</longitude>
+  </daira>
+  <daira id="513" id_state="44">
+    <arabic>العطاف</arabic>
+    <french>El Attaf</french>
+    <latitude>36.17637530</latitude>
+    <longitude>1.65484150</longitude>
+  </daira>
+  <daira id="514" id_state="44">
+    <arabic>العبادية</arabic>
+    <french>El Abadia</french>
+    <latitude>36.34188750</latitude>
+    <longitude>1.66771040</longitude>
+  </daira>
+  <daira id="515" id_state="44">
+    <arabic>جندل</arabic>
+    <french>Djendel</french>
+    <latitude>36.17920580</latitude>
+    <longitude>2.48500580</longitude>
+  </daira>
+  <daira id="516" id_state="44">
+    <arabic>عين الاشياخ</arabic>
+    <french>Ain Lechiakh</french>
+    <latitude>36.12209830</latitude>
+    <longitude>2.40549630</longitude>
+  </daira>
+  <daira id="517" id_state="44">
+    <arabic>الروينة</arabic>
+    <french>Rouina</french>
+    <latitude>36.13963870</latitude>
+    <longitude>1.79361280</longitude>
+  </daira>
+  <daira id="518" id_state="44">
+    <arabic>برج الأمير خالد</arabic>
+    <french>Bordj El Emir Khaled</french>
+    <latitude>36.12003320</latitude>
+    <longitude>2.20450880</longitude>
+  </daira>
+  <daira id="519" id_state="44">
+    <arabic>بطحية</arabic>
+    <french>Bathia</french>
+    <latitude>35.98474890</latitude>
+    <longitude>1.85776600</longitude>
+  </daira>
+  <daira id="520" id_state="45">
+    <arabic>النعامة</arabic>
+    <french>Naama</french>
+    <latitude>33.28403150</latitude>
+    <longitude>-0.29482170</longitude>
+  </daira>
+  <daira id="521" id_state="45">
+    <arabic>المشرية</arabic>
+    <french>Mecheria</french>
+    <latitude>33.52813840</latitude>
+    <longitude>-0.19584710</longitude>
+  </daira>
+  <daira id="522" id_state="45">
+    <arabic>عين الصفراء</arabic>
+    <french>Ain Sefra</french>
+    <latitude>32.82606030</latitude>
+    <longitude>-0.49623410</longitude>
+  </daira>
+  <daira id="523" id_state="45">
+    <arabic>سفيسيفة</arabic>
+    <french>Sfissifa</french>
+    <latitude>32.78796430</latitude>
+    <longitude>-1.01503280</longitude>
+  </daira>
+  <daira id="524" id_state="45">
+    <arabic>مغرار</arabic>
+    <french>Moghrar</french>
+    <latitude>32.41777270</latitude>
+    <longitude>-0.73974880</longitude>
+  </daira>
+  <daira id="525" id_state="45">
+    <arabic>عسلة</arabic>
+    <french>Asla</french>
+    <latitude>32.71868900</latitude>
+    <longitude>-0.15741120</longitude>
+  </daira>
+  <daira id="526" id_state="45">
+    <arabic>مكمن بن عمار</arabic>
+    <french>Mekmen Ben Amar</french>
+    <latitude>33.63651400</latitude>
+    <longitude>-1.12849870</longitude>
+  </daira>
+  <daira id="527" id_state="46">
+    <arabic>عين تموشنت</arabic>
+    <french>Ain Temouchent</french>
+    <latitude>35.28845510</latitude>
+    <longitude>-1.15797370</longitude>
+  </daira>
+  <daira id="528" id_state="46">
+    <arabic>حمام بوحجر</arabic>
+    <french>Hammam Bou Hadjar</french>
+    <latitude>35.33256660</latitude>
+    <longitude>-0.98797730</longitude>
+  </daira>
+  <daira id="529" id_state="46">
+    <arabic>عين الأربعاء</arabic>
+    <french>Ain Larbaa</french>
+    <latitude>35.41416950</latitude>
+    <longitude>-0.77373340</longitude>
+  </daira>
+  <daira id="530" id_state="46">
+    <arabic>المالح</arabic>
+    <french>El Maleh</french>
+    <latitude>35.36599790</latitude>
+    <longitude>-1.16138970</longitude>
+  </daira>
+  <daira id="531" id_state="46">
+    <arabic>العامرية</arabic>
+    <french>El Amria</french>
+    <latitude>35.51827780</latitude>
+    <longitude>-1.09355630</longitude>
+  </daira>
+  <daira id="532" id_state="46">
+    <arabic>عين الكيحل</arabic>
+    <french>Ain Kihel</french>
+    <latitude>35.19248700</latitude>
+    <longitude>-1.11478790</longitude>
+  </daira>
+  <daira id="533" id_state="46">
+    <arabic>بني صاف</arabic>
+    <french>Beni Saf</french>
+    <latitude>35.27747380</latitude>
+    <longitude>-1.36567090</longitude>
+  </daira>
+  <daira id="534" id_state="46">
+    <arabic>ولهاصة الغرابة</arabic>
+    <french>Oulhassa Gheraba</french>
+    <latitude>35.22477950</latitude>
+    <longitude>-1.49677820</longitude>
+  </daira>
+  <daira id="535" id_state="47">
+    <arabic>غرداية</arabic>
+    <french>Ghardaia</french>
+    <latitude>32.58755260</latitude>
+    <longitude>3.71909120</longitude>
+  </daira>
+  <daira id="536" id_state="58">
+    <arabic>المنيعة</arabic>
+    <french>El Menia</french>
+    <latitude>30.54373210</latitude>
+    <longitude>3.01859680</longitude>
+  </daira>
+  <daira id="537" id_state="47">
+    <arabic>ضاية بن ضحوة</arabic>
+    <french>Dhayet Ben Dhahoua</french>
+    <latitude>32.65990660</latitude>
+    <longitude>3.34836490</longitude>
+  </daira>
+  <daira id="538" id_state="47">
+    <arabic>بريان</arabic>
+    <french>Berriane</french>
+    <latitude>32.88979400</latitude>
+    <longitude>3.76064680</longitude>
+  </daira>
+  <daira id="539" id_state="47">
+    <arabic>متليلي</arabic>
+    <french>Metlili</french>
+    <latitude>32.27482580</latitude>
+    <longitude>3.44987560</longitude>
+  </daira>
+  <daira id="540" id_state="47">
+    <arabic>القرارة</arabic>
+    <french>El Guerrara</french>
+    <latitude>32.76943590</latitude>
+    <longitude>4.56055140</longitude>
+  </daira>
+  <daira id="541" id_state="47">
+    <arabic>زلفانة</arabic>
+    <french>Zelfana</french>
+    <latitude>32.41352250</latitude>
+    <longitude>4.31034370</longitude>
+  </daira>
+  <daira id="542" id_state="47">
+    <arabic>بونورة</arabic>
+    <french>Bounoura</french>
+    <latitude>32.53615030</latitude>
+    <longitude>3.96517120</longitude>
+  </daira>
+  <daira id="543" id_state="58">
+    <arabic>المنصورة</arabic>
+    <french>Mansourah</french>
+    <latitude>32.00885230</latitude>
+    <longitude>3.27500230</longitude>
+  </daira>
+  <daira id="544" id_state="58">
+    <arabic>المنيعة (ولاية منتدبة)</arabic>
+    <french>El Menia (Wilaya Déléguée) </french>
+    <latitude>30.54373210</latitude>
+    <longitude>3.01859680</longitude>
+  </daira>
+  <daira id="545" id_state="48">
+    <arabic>غليزان</arabic>
+    <french>Relizane</french>
+    <latitude>35.68119880</latitude>
+    <longitude>0.54256860</longitude>
+  </daira>
+  <daira id="546" id_state="48">
+    <arabic>وادي رهيو</arabic>
+    <french>Oued Rhiou</french>
+    <latitude>35.97046290</latitude>
+    <longitude>0.95250940</longitude>
+  </daira>
+  <daira id="547" id_state="48">
+    <arabic>الحمادنة</arabic>
+    <french>El H'madna</french>
+    <latitude>35.84622550</latitude>
+    <longitude>0.65911100</longitude>
+  </daira>
+  <daira id="548" id_state="48">
+    <arabic>سيدي أمحمد بن علي</arabic>
+    <french>Sidi M'hamed Ben Ali</french>
+    <latitude>36.12608450</latitude>
+    <longitude>0.73602580</longitude>
+  </daira>
+  <daira id="549" id_state="48">
+    <arabic>عمي موسى</arabic>
+    <french>Ammi Moussa</french>
+    <latitude>35.82695100</latitude>
+    <longitude>0.96673670</longitude>
+  </daira>
+  <daira id="550" id_state="48">
+    <arabic>زمورة</arabic>
+    <french>Zemmoura</french>
+    <latitude>35.71762090</latitude>
+    <longitude>0.75406960</longitude>
+  </daira>
+  <daira id="551" id_state="48">
+    <arabic>جديوية</arabic>
+    <french>Djidiouia</french>
+    <latitude>35.96258860</latitude>
+    <longitude>0.72739520</longitude>
+  </daira>
+  <daira id="552" id_state="48">
+    <arabic>المطمر</arabic>
+    <french>El Matmar</french>
+    <latitude>35.57082590</latitude>
+    <longitude>0.62154840</longitude>
+  </daira>
+  <daira id="553" id_state="48">
+    <arabic>عين طارق</arabic>
+    <french>Ain Tarek</french>
+    <latitude>35.73020850</latitude>
+    <longitude>1.18092670</longitude>
+  </daira>
+  <daira id="554" id_state="48">
+    <arabic>مازونة</arabic>
+    <french>Mazouna</french>
+    <latitude>36.10008940</latitude>
+    <longitude>0.86843770</longitude>
+  </daira>
+  <daira id="555" id_state="48">
+    <arabic>يلل</arabic>
+    <french>Yellel</french>
+    <latitude>35.67960550</latitude>
+    <longitude>0.35982940</longitude>
+  </daira>
+  <daira id="556" id_state="48">
+    <arabic>الرمكة</arabic>
+    <french>Ramka</french>
+    <latitude>35.87613110</latitude>
+    <longitude>1.30623710</longitude>
+  </daira>
+  <daira id="557" id_state="48">
+    <arabic>منداس</arabic>
+    <french>Mendes</french>
+    <latitude>35.65078990</latitude>
+    <longitude>0.86448160</longitude>
+  </daira>
+</dairas>

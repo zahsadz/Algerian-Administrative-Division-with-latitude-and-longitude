@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wilayas>
+  <wilaya id="1">
+    <arabic>أدرار</arabic>
+    <french>Adrar</french>
+    <latitude>26.48881550</latitude>
+    <longitude>-1.35824420</longitude>
+  </wilaya>
+  <wilaya id="2">
+    <arabic> الشلف</arabic>
+    <french>Chlef</french>
+    <latitude>36.20342000</latitude>
+    <longitude>1.26806960</longitude>
+  </wilaya>
+  <wilaya id="3">
+    <arabic>الأغواط</arabic>
+    <french>Laghouat</french>
+    <latitude>33.75044050</latitude>
+    <longitude>2.64310940</longitude>
+  </wilaya>
+  <wilaya id="4">
+    <arabic>أم البواقي</arabic>
+    <french>Oum El Bouaghi</french>
+    <latitude>35.81058050</latitude>
+    <longitude>7.01841780</longitude>
+  </wilaya>
+  <wilaya id="5">
+    <arabic>باتنة</arabic>
+    <french>Batna</french>
+    <latitude>35.33842910</latitude>
+    <longitude>5.73154530</longitude>
+  </wilaya>
+  <wilaya id="6">
+    <arabic> بجاية</arabic>
+    <french>Béjaïa</french>
+    <latitude>36.55690050</latitude>
+    <longitude>4.78589250</longitude>
+  </wilaya>
+  <wilaya id="7">
+    <arabic>بسكرة</arabic>
+    <french>Biskra</french>
+    <latitude>34.78456350</latitude>
+    <longitude>5.81243530</longitude>
+  </wilaya>
+  <wilaya id="8">
+    <arabic>بشار</arabic>
+    <french>Béchar</french>
+    <latitude>31.38572600</latitude>
+    <longitude>-2.01159580</longitude>
+  </wilaya>
+  <wilaya id="9">
+    <arabic>البليدة</arabic>
+    <french>Blida</french>
+    <latitude>36.50125950</latitude>
+    <longitude>2.95176660</longitude>
+  </wilaya>
+  <wilaya id="10">
+    <arabic>البويرة</arabic>
+    <french>Bouira</french>
+    <latitude>36.23164810</latitude>
+    <longitude>3.90825790</longitude>
+  </wilaya>
+  <wilaya id="11">
+    <arabic>تمنراست</arabic>
+    <french>Tamanrasset</french>
+    <latitude>24.37534380</latitude>
+    <longitude>4.32084360</longitude>
+  </wilaya>
+  <wilaya id="12">
+    <arabic>تبسة</arabic>
+    <french>Tébessa</french>
+    <latitude>35.12494500</latitude>
+    <longitude>7.90117350</longitude>
+  </wilaya>
+  <wilaya id="13">
+    <arabic>تلمسان</arabic>
+    <french>Tlemcen</french>
+    <latitude>34.66746800</latitude>
+    <longitude>-1.29781320</longitude>
+  </wilaya>
+  <wilaya id="14">
+    <arabic>تيارت</arabic>
+    <french>Tiaret</french>
+    <latitude>34.89475750</latitude>
+    <longitude>1.59457920</longitude>
+  </wilaya>
+  <wilaya id="15">
+    <arabic>تيزي وزو</arabic>
+    <french>Tizi Ouzou</french>
+    <latitude>36.68161750</latitude>
+    <longitude>4.23718600</longitude>
+  </wilaya>
+  <wilaya id="16">
+    <arabic>الجزائر</arabic>
+    <french>Alger</french>
+    <latitude>36.70005100</latitude>
+    <longitude>3.02912660</longitude>
+  </wilaya>
+  <wilaya id="17">
+    <arabic>الجلفة</arabic>
+    <french>Djelfa</french>
+    <latitude>34.34284100</latitude>
+    <longitude>3.21725310</longitude>
+  </wilaya>
+  <wilaya id="18">
+    <arabic>جيجل</arabic>
+    <french>Jijel</french>
+    <latitude>36.72921880</latitude>
+    <longitude>5.96077760</longitude>
+  </wilaya>
+  <wilaya id="19">
+    <arabic>سطيف</arabic>
+    <french>Sétif</french>
+    <latitude>36.10566100</latitude>
+    <longitude>5.56202760</longitude>
+  </wilaya>
+  <wilaya id="20">
+    <arabic>سعيدة</arabic>
+    <french>Saïda</french>
+    <latitude>34.74334900</latitude>
+    <longitude>0.24407640</longitude>
+  </wilaya>
+  <wilaya id="21">
+    <arabic>سكيكدة</arabic>
+    <french>Skikda</french>
+    <latitude>36.75451150</latitude>
+    <longitude>6.88562550</longitude>
+  </wilaya>
+  <wilaya id="22">
+    <arabic>سيدي بلعباس</arabic>
+    <french>Sidi Bel Abbès</french>
+    <latitude>34.68226800</latitude>
+    <longitude>-0.43575550</longitude>
+  </wilaya>
+  <wilaya id="23">
+    <arabic>عنابة</arabic>
+    <french>Annaba</french>
+    <latitude>36.84388780</latitude>
+    <longitude>7.59830680</longitude>
+  </wilaya>
+  <wilaya id="24">
+    <arabic>قالمة</arabic>
+    <french>Guelma</french>
+    <latitude>36.34916350</latitude>
+    <longitude>7.40949900</longitude>
+  </wilaya>
+  <wilaya id="25">
+    <arabic>قسنطينة</arabic>
+    <french>Constantine</french>
+    <latitude>36.35841650</latitude>
+    <longitude>6.66716740</longitude>
+  </wilaya>
+  <wilaya id="26">
+    <arabic>المدية</arabic>
+    <french>Médéa</french>
+    <latitude>35.97520450</latitude>
+    <longitude>3.01235040</longitude>
+  </wilaya>
+  <wilaya id="27">
+    <arabic>مستغانم</arabic>
+    <french>Mostaganem</french>
+    <latitude>36.00269150</latitude>
+    <longitude>0.36868670</longitude>
+  </wilaya>
+  <wilaya id="28">
+    <arabic>المسيلة</arabic>
+    <french>M'Sila</french>
+    <latitude>35.13002050</latitude>
+    <longitude>4.20031070</longitude>
+  </wilaya>
+  <wilaya id="29">
+    <arabic>معسكر</arabic>
+    <french>Mascara</french>
+    <latitude>35.39783850</latitude>
+    <longitude>0.24301950</longitude>
+  </wilaya>
+  <wilaya id="30">
+    <arabic>ورقلة</arabic>
+    <french>Ouargla</french>
+    <latitude>31.92823306</latitude>
+    <longitude>5.27516681</longitude>
+  </wilaya>
+  <wilaya id="31">
+    <arabic>وهران</arabic>
+    <french>Oran</french>
+    <latitude>35.62158620</latitude>
+    <longitude>-0.70161430</longitude>
+  </wilaya>
+  <wilaya id="32">
+    <arabic>البيض</arabic>
+    <french>El Bayadh</french>
+    <latitude>32.57030300</latitude>
+    <longitude>1.12595810</longitude>
+  </wilaya>
+  <wilaya id="33">
+    <arabic>إليزي</arabic>
+    <french>Illizi</french>
+    <latitude>27.85285050</latitude>
+    <longitude>7.81896360</longitude>
+  </wilaya>
+  <wilaya id="34">
+    <arabic>برج بوعريريج</arabic>
+    <french>Bordj Bou Arreridj</french>
+    <latitude>36.09620290</latitude>
+    <longitude>4.66027420</longitude>
+  </wilaya>
+  <wilaya id="35">
+    <arabic>بومرداس</arabic>
+    <french>Boumerdès</french>
+    <latitude>36.73580320</latitude>
+    <longitude>3.61630460</longitude>
+  </wilaya>
+  <wilaya id="36">
+    <arabic>الطارف</arabic>
+    <french>El Tarf</french>
+    <latitude>36.67135630</latitude>
+    <longitude>8.07013400</longitude>
+  </wilaya>
+  <wilaya id="37">
+    <arabic>تندوف</arabic>
+    <french>Tindouf</french>
+    <latitude>27.54390700</latitude>
+    <longitude>-6.23992510</longitude>
+  </wilaya>
+  <wilaya id="38">
+    <arabic>تيسمسيلت</arabic>
+    <french>Tissemsilt</french>
+    <latitude>35.78589750</latitude>
+    <longitude>1.83409570</longitude>
+  </wilaya>
+  <wilaya id="39">
+    <arabic>الوادي</arabic>
+    <french>El Oued</french>
+    <latitude>33.21544100</latitude>
+    <longitude>7.15532140</longitude>
+  </wilaya>
+  <wilaya id="40">
+    <arabic>خنشلة</arabic>
+    <french>Khenchela</french>
+    <latitude>34.91334550</latitude>
+    <longitude>6.90594310</longitude>
+  </wilaya>
+  <wilaya id="41">
+    <arabic>سوق أهراس</arabic>
+    <french>Souk Ahras</french>
+    <latitude>36.13786810</latitude>
+    <longitude>7.82624260</longitude>
+  </wilaya>
+  <wilaya id="42">
+    <arabic>تيبازة</arabic>
+    <french>Tipaza</french>
+    <latitude>36.52715700</latitude>
+    <longitude>2.16720120</longitude>
+  </wilaya>
+  <wilaya id="43">
+    <arabic>ميلة</arabic>
+    <french>Mila</french>
+    <latitude>36.25021350</latitude>
+    <longitude>6.16521630</longitude>
+  </wilaya>
+  <wilaya id="44">
+    <arabic>عين الدفلة</arabic>
+    <french>Aïn Defla</french>
+    <latitude>36.15868430</latitude>
+    <longitude>2.08428170</longitude>
+  </wilaya>
+  <wilaya id="45">
+    <arabic>النعامة</arabic>
+    <french>Naâma</french>
+    <latitude>33.23368510</latitude>
+    <longitude>-0.81519580</longitude>
+  </wilaya>
+  <wilaya id="46">
+    <arabic>عين تيموشنت</arabic>
+    <french>Aïn Témouchent</french>
+    <latitude>35.36512970</latitude>
+    <longitude>-0.94521710</longitude>
+  </wilaya>
+  <wilaya id="47">
+    <arabic>غرداية</arabic>
+    <french>Ghardaïa</french>
+    <latitude>32.44082700</latitude>
+    <longitude>3.56182090</longitude>
+  </wilaya>
+  <wilaya id="48">
+    <arabic>غليزان</arabic>
+    <french>Relizane</french>
+    <latitude>35.83631850</latitude>
+    <longitude>0.91185370</longitude>
+  </wilaya>
+  <wilaya id="49">
+    <arabic>تيميمون</arabic>
+    <french>Timimoun</french>
+    <latitude>29.26631963</latitude>
+    <longitude>0.23483276</longitude>
+  </wilaya>
+  <wilaya id="50">
+    <arabic>برج باجي مختار</arabic>
+    <french>Bordj Badji Mokhtar</french>
+    <latitude>21.32437224</latitude>
+    <longitude>0.94928741</longitude>
+  </wilaya>
+  <wilaya id="51">
+    <arabic>بني عباس</arabic>
+    <french>Beni Abbes</french>
+    <latitude>30.13174260</latitude>
+    <longitude>-2.16903100</longitude>
+  </wilaya>
+  <wilaya id="52">
+    <arabic>أولاد جلال</arabic>
+    <french>Ouled Djellal</french>
+    <latitude>34.42541030</latitude>
+    <longitude>5.06443420</longitude>
+  </wilaya>
+  <wilaya id="53">
+    <arabic>عين صالح</arabic>
+    <french>In Salah</french>
+    <latitude>27.19902208</latitude>
+    <longitude>2.48016357</longitude>
+  </wilaya>
+  <wilaya id="54">
+    <arabic>عين قزام</arabic>
+    <french>In Guezzam</french>
+    <latitude>19.57044910</latitude>
+    <longitude>5.76953888</longitude>
+  </wilaya>
+  <wilaya id="55">
+    <arabic>تقرت</arabic>
+    <french>Touggourt</french>
+    <latitude>33.10989680</latitude>
+    <longitude>6.06610200</longitude>
+  </wilaya>
+  <wilaya id="56">
+    <arabic>جانت</arabic>
+    <french>Djanet</french>
+    <latitude>24.55149974</latitude>
+    <longitude>9.48669434</longitude>
+  </wilaya>
+  <wilaya id="57">
+    <arabic>المغير</arabic>
+    <french>El Mghair</french>
+    <latitude>33.94968090</latitude>
+    <longitude>5.92108900</longitude>
+  </wilaya>
+  <wilaya id="58">
+    <arabic>المنيعة</arabic>
+    <french>El Menia</french>
+    <latitude>30.58411440</latitude>
+    <longitude>2.88219452</longitude>
+  </wilaya>
+</wilayas>

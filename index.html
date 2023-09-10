@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+  <div class="row justify-content-md-center">
+    <div class="col-6">
+ <header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+     
+      <div class="col text-center">
+        <a class="blog-header-logo text-dark" target="_blank"  href="map.html">توزع الولايات علي الخريطة</a>
+      </div>
+    
+    </div>
+  </header>
+  
+<form class="row g-3 mt-5">
+ 
+  <div class="col-12">
+    <label for="sel_state" class="form-label"> ولاية </label>
+    <select id="sel_state" class="form-select">
+      <option selected> إختر ولاية... </option>
+    </select>
+  </div>
+  
+   <div class="col-12">
+    <label for="sel_dairas" class="form-label"> دائرة </label>
+    <select id="sel_dairas" class="form-select">
+      <option selected> إختر دائرة ... </option>
+    </select>
+  </div>
+  
+    <div class="col-12">
+    <label for="sel_baladiyas" class="form-label"> بلدية </label>
+    <select id="sel_baladiyas" class="form-select">
+      <option selected> إختر بلدية ... </option>
+    </select>
+  </div>
+  
+  <div class="col-12 d-grid gap-2 text-center">
+    <button type="button" id="submit" class="btn btn-outline-success"> أرسل </button>
+  </div>
+</form>
+
+
+<button style="display:none;" type="button" onclick="getOption()" class="btn btn-primary mt-5"> أرسل </button>
+		
+    <p>
+       
+<ul class="list-group">
+
+  <li class="output_state list-group-item list-group-item-secondary"></li>
+    <li class="list-group-item list-group-item-secondary"><a target="_blank" class="url_state" href=""> تصفح علي الخريطة </a></li>
+
+  <li class="output_dairas list-group-item list-group-item-warning"></li>
+    <li class="list-group-item list-group-item-warning"><a target="_blank" class="url_dairas" href=""> تصفح علي الخريطة </a></li>
+
+  <li class="output_baladiyas list-group-item list-group-item-success"></li>
+  <li class="list-group-item list-group-item-success"><a target="_blank" class="url_baladiyas" href=""> تصفح علي الخريطة </a></li>
+
+</ul>
+
+
+    </p>
+	    </div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+
+        <script type='text/javascript'>
+            
+            $(document).ready(function(){
+                
+                    // AJAX request
+                    $.ajax({
+                        url:'json/state.json',
+                        method: 'post',
+                        data: {},
+                        dataType: 'json',
+                        success: function(response){
+                            // Add options
+                            $.each(response,function(index,data){
+                                $('#sel_state').append('<option data-latitude="'+data['latitude']+'" data-longitude="'+data['longitude']+'" value="'+data['id']+'">'+data['arabic']+'</option>');
+                            });
+                        }
+                    });
+             
+                
+                // dairas change
+                $('#sel_state').change(function(){
+                    var state = $(this).val();
+
+                    // AJAX request
+                    $.ajax({
+                        url:'json/dairas.json',
+                        method: 'post',
+                        data: {},
+                        dataType: 'json',
+                        success: function(response){
+                            
+                            // Remove options
+                            $('#sel_dairas').find('option').not(':first').remove();
+                            $('#sel_dairas').fadeOut(500).fadeIn(500);
+                            $('#sel_dairas').css("background-color", "#FFFF9C");
+
+
+                            // Add options
+                            $.each(response,function(index,data){
+							
+                      			 if(data['id_state'] == state)
+
+					  $('#sel_dairas').append('<option data-latitude="'+data['latitude']+'" data-longitude="'+data['longitude']+'" value="'+data['id']+'">'+data['arabic']+'</option>');
+					  
+                            });
+                        }
+                    });
+                });
+              
+
+		        // baladiyas change
+                $('#sel_dairas').change(function(){
+                    var daira = $(this).val();
+
+                    // AJAX request
+                    $.ajax({
+                        url:'json/baladiyas.json',
+                        method: 'post',
+                        data: {},
+                        dataType: 'json',
+                        success: function(response){
+                            
+                            // Remove options
+                            $('#sel_baladiyas').find('option').not(':first').remove();
+                            $('#sel_baladiyas').fadeOut(500).fadeIn(500);
+                            $('#sel_baladiyas').css("background-color", "#cbf9c8");
+                            // Add options
+                            $.each(response,function(index,data){
+							
+                      			 if(data['id_daira'] == daira)
+                            // console.log(data['arabic']);
+
+					  $('#sel_baladiyas').append('<option data-latitude="'+data['latitude']+'" data-longitude="'+data['longitude']+'" value="'+data['id']+'">'+data['arabic']+'</option>');
+					  
+                            });
+                        }
+                    });
+                });
+				
+            });
+		
+		$(".list-group").hide();
+	
+	function getOption() {
+	$(".list-group").show();
+
+        selectElement = document.querySelector('#sel_baladiyas');
+        outputid = selectElement.value;
+		outputtext = selectElement.options[selectElement.selectedIndex].text;
+		
+		document.querySelector('.output_baladiyas').textContent =  ''+ outputtext +'';
+		
+		selectdairas = document.querySelector('#sel_dairas');
+        outputiddairas = selectdairas.value;
+		outputtextdairas = selectdairas.options[selectdairas.selectedIndex].text;
+		
+		document.querySelector('.output_dairas').textContent =  ''+ outputtextdairas +'';
+
+		selectstate = document.querySelector('#sel_state');
+        outputidstate = selectstate.value;
+		outputtextstate = selectstate.options[selectstate.selectedIndex].text;
+				
+        document.querySelector('.output_state').textContent =  ''+ outputtextstate +'';
+		
+    }
+		
+$("#submit").on('click', function(){ 
+	
+	$(".list-group").show();
+	
+	$(":selected","form").each(function(i,o){
+	//console.log(i);
+	//console.log(o);
+	//$('.output_state').append($(o).attr('data-latitude')); 
+	});
+	
+var state =$("#sel_state option:selected").text();
+var latitude_state = $("#sel_state option:selected").data("latitude");
+var longitude_state = $("#sel_state option:selected").data("longitude");
+var url_state = "location.html?lat=" + latitude_state + "&lng=" + longitude_state + "";
+
+
+
+var dairas =$("#sel_dairas option:selected").text();
+var latitude_dairas = $("#sel_dairas option:selected").data("latitude");
+var longitude_dairas = $("#sel_dairas option:selected").data("longitude");
+var url_dairas = "location.html?lat=" + latitude_dairas + "&lng=" + longitude_dairas + "";
+
+	
+var baladiyas =$("#sel_baladiyas option:selected").text();
+var latitude = $("#sel_baladiyas option:selected").data("latitude");
+var longitude = $("#sel_baladiyas option:selected").data("longitude");
+var url = "location.html?lat=" + latitude + "&lng=" + longitude + "";
+	
+console.log($("#sel_baladiyas option:selected").text());
+console.log($("#sel_baladiyas option:selected").data("latitude"));
+console.log($("#sel_baladiyas option:selected").attr('data-longitude'));
+	
+$('.output_state').html(state);
+$('.url_state').attr('href',''+url_state); 
+ 
+$('.output_dairas').html(dairas); 
+$('.url_dairas').attr('href',''+url_dairas); 
+
+
+$('.output_baladiyas').html(baladiyas);
+$('.url_baladiyas').attr('href',''+url); 
+
+	});
+		
+</script>
+
+</body>
+</html>
