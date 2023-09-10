@@ -20,8 +20,8 @@ Administrative division of Algeria with latitude and longitude (Wilayas - Daïra
   <p align="center">
     <img src="https://img.shields.io/badge/1-JSON-ffd32a.svg" alt="JSON">
     <img src="https://img.shields.io/badge/2-CSV-808e9b.svg" alt="CSV">
-    <img src="https://img.shields.io/badge/5-SQL-27ae60.svg" alt="SQL">
-    <img src="https://img.shields.io/badge/6-XML-27ae60.svg" alt="XML">
+    <img src="https://img.shields.io/badge/3-SQL-27ae60.svg" alt="SQL">
+    <img src="https://img.shields.io/badge/4-XML-27ae60.svg" alt="XML">
   </p>
   <p align="center">
     <strong>:algeria: Algeria administrative division :algeria:</strong>
@@ -72,3 +72,5 @@ zahrane sa / [@zah4dz](https://fb.me/zah4dz)
 
 drive google / [السكريبت المستعمل في مراقبة وتعديل الإحداثيات](https://drive.google.com/file/d/11HYBTLpsWxjlss_X1t64wv9FsCCudqXH/view?usp=drivesdk
 )
+
+## ساهم في التعديل إذا وجدت إحداثيات غير صحيحة 
