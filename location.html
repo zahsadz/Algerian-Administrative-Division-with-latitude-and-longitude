@@ -52,6 +52,8 @@ function load_map(lat,lng) {
 		osm = new L.TileLayer(osmUrl, {maxZoom: 18, attribution: osmAttribution});
 
 	map.setView(new L.LatLng(lat,lng),8).addLayer(osm);
+	L.marker(new L.LatLng(lat,lng)).addTo(map);
+
 }
 
 window.onload = load_map(lat,lng);
