@@ -54,7 +54,7 @@ function load_map(lat,lng) {
 	map.setView(new L.LatLng(lat,lng),8).addLayer(osm);
 }
 
-window.onload = load_map;
+window.onload = load_map(lat,lng);
 
 </script>
 
