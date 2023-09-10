@@ -16,7 +16,7 @@ Administrative division of Algeria with latitude and longitude (Wilayas - Daïra
 
 
 <p align="center">
-    <img src="https://github.com/zahsadz/algeria-administrative-division/blob/master/algeria.png" width="200"  alt="Algeria administrative division">
+    <img src="https://raw.githubusercontent.com/zahsadz/Algerian-Administrative-Division-with-latitude-and-longitude/main//algeria.png" width="200"  alt="Algeria administrative division">
   <p align="center">
     <img src="https://img.shields.io/badge/1-JSON-ffd32a.svg" alt="JSON">
     <img src="https://img.shields.io/badge/2-CSV-808e9b.svg" alt="CSV">
