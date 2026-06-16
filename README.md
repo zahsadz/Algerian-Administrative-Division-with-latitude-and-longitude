@@ -67,10 +67,5 @@ Administrative division of Algeria with latitude and longitude (Wilayas - Daïra
 
 zahrane sa facebook / [@zah4dz](https://fb.me/zah4dz)
 
-السكريبت المستعمل في مراقبة وتعديل الإحداثيات
-============================================================
 
-drive google / [السكريبت المستعمل في مراقبة وتعديل الإحداثيات](https://drive.google.com/file/d/11HYBTLpsWxjlss_X1t64wv9FsCCudqXH/view?usp=drivesdk
-)
-
-## ساهم في التعديل إذا وجدت إحداثيات غير صحيحة 
+==========================================================
